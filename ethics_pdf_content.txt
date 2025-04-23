@@ -1,0 +1,294 @@
+
+
+--- Page 1 ---
+
+Computing in 
+Contemporary Society
+
+--- Page 2 ---
+
+Ethics and Computer Ethics
+Lecture one
+Jyoti Bhardwaj
+
+--- Page 3 ---
+
+•“What is Computer Ethics ?” Seminal article by James Moor
+•“AI Ban Ordered After Child Protection Worker Used 
+ChatGPT ”: Guardian Australia article from September 2024
+•“Is modern life ruining our powers of concentration? ”: 
+Guardian article from January 2023This week’s reading and listening
+
+--- Page 4 ---
+
+This lecture is about:
+•Aim, structure and assessment of the module
+•The dictionary definition of Ethics
+•Computer ethics (Moor, 1985)
+•The moral vacuum associated with technological innovation
+•Technological neutrality vsTechnological determinism vsSocial 
+determinism (actor -network theory) vsSocial shaping of technology
+
+--- Page 5 ---
+
+Aims / key activities on the CCS module
+•Critically explore the role and impact of technology
+•Become familiar with some important ethical and philosophical 
+perspectives 
+•Cover some interesting or controversial aspects of current society from a 
+technological perspective
+•Learn some of the key skills for writing a literature review
+•Prepare for the Honours project by writing a literature review on a current 
+technology -related topic
+
+--- Page 6 ---
+
+Structure of the module
+You have four hours of classes a week during weeks 2 -8 
+•Two one -hour lectures per week on ethics, societal issues in technology, 
+privacy and the law, professionalism in IT (these are scheduled as three 
+hour slots and there will be a break in -between)
+•Six two -hour workshops/tutorials on how to plan, structure and write a 
+literature review, including developing a topic, searching for sources, 
+using a referencing tool, laying out a report, and writing an abstract
+•Week 2 and Week 8 are delivered face -to-face
+•Week 3 –6 is delivered on -line
+The final tutorial is in Week 8; after that, it is lectures only
+
+--- Page 7 ---
+
+Assessment 
+•Friday 28th March at 3pm : Submit a 2,000 word literature review 
+on a contemporary issue selected from a list of three topics, worth 60%
+of the module; details in tutorial one this week
+•April 30, A17 : A timetabled two -hour class -test on lecture topics, worth 
+40% of the module. The test will be administered in Moodle so please 
+remember to bring a laptop (or a compatible device, ietablet) to campus 
+on this day.
+
+--- Page 8 ---
+
+Something to listen to
+•ACLU Ordering Pizza
+
+--- Page 9 ---
+
+Ethics (noun, pl)
+―“The science of morals...the department of study 
+concerned with the principles of human duty”
+―“The moral principles of a school of thought
+―The moral principles by which a person is guided
+―The rules of conduct recognised in certain associations or 
+departments of human life”
+(Oxford English Dictionary)
+Kizza (2017) defines ethics as: “a theoretical examination of 
+morality”
+
+--- Page 10 ---
+
+Why examine computer ethics?
+•We can agree that technology is changing many aspects of human 
+existence and endeavour
+•What are disputed are the social and ethical implications of these 
+changes, and the multiple ways in which one can conceptualise and 
+interpret the technology/society interrelationship
+•At the centre of this technology/society interrelationship we find 
+many complex questions about the nature of human agency, 
+autonomy and freedom
+•This module is about some of these issues
+
+--- Page 11 ---
+
+Why examine computer ethics?
+•Tech developers (in particular “Big Tech” corporations) have been 
+criticised for:
+−lacking empathy
+−lacking a sense of responsibility regarding the social problems that 
+their technologies have created or exacerbated
+•Decisions made by technology corporations have negatively 
+impacted society’s capacity for: 
+−civil dialogue
+−privacy
+−? Fairness…. What else?
+
+--- Page 12 ---
+
+Computer ethics
+“The growth of the Internet and social networks; the ability to 
+capture, store, and analyse vast amounts of personal data; 
+and a greater reliance on information systems in all aspects 
+of life, have increased the risk that information technology 
+will be used unethically. 
+In the midst of the many IT breakthroughs in recent years, 
+the importance of ethics and human values has been 
+underemphasised —with a range of consequences.” 
+(Reynolds, 2018)
+
+--- Page 13 ---
+
+•“The mark of a problem in computer 
+ethics is one in which computer 
+technology is essentially involved and 
+there is uncertainty about what to do and 
+even about how to understand the 
+situation” (Moor, 1985)
+•Moor argued that computers show up 
+policy vacuums that require new thinking 
+and the establishment of new policiesComputer ethics
+
+
+--- Page 14 ---
+
+•Baym (2015) discusses the “cultural anxiety” associated with 
+new technology
+•Technology has become thought of as the default means to 
+solve a whole raft of technical and social problems such as 
+health provision, security, governance, etc
+•Technology is to a great extent synonymous with society’s view 
+of modernisation and progressComputer ethics
+
+--- Page 15 ---
+
+Computer ethics
+•As Baym discusses (2015) using mobile phones as an example, 
+our reaction to a technological innovation takes two forms: 
+―to express concern ( eg, that communication is shallow, or that 
+mediated communication threatens the sanctity of personal 
+relationships), or
+―to welcome opportunity ( eg, for more connection with a more 
+people, leading to stronger and more diverse relationships)
+•Before the technology becomes so normalised as to be invisible, 
+the time of flux is the time for thinking critically 
+
+--- Page 16 ---
+
+Computer ethics
+•As Moor predicted (1985) 
+every new technology creates 
+a moral vacuum into which 
+commentators pour their views
+•Baym  (2015) calls them 
+Utopian vs Dystopian 
+perspectives – either doom 
+laden where the innovation is 
+totally evil, or evangelical 
+where it is completely 
+wonderful
+
+--- Page 17 ---
+
+•Who stands to benefit from a particular technology? 
+•Who stands to suffer under it? 
+•Whom might it empower?
+•Whom might it oppress?So... what questions should  we ask?
+
+--- Page 18 ---
+
+•The most common view of computer technology is that it is an artefact or 
+tool simply available, to use or not use, in order for humans to achieve 
+their objectives and outcomes, much like, say, a hammer
+•Danks  argues against the neutrality thesis because, in contrast with 
+relatively inert physical artifacts  like hammers, digital technologies 
+sometimes make ethical decisions themselves 
+•Autonomous and semi -autonomous technologies “typically have the 
+capability to plan, decide, and act in the world. These systems make 
+ethical choices, in some cases, literally matters of life -and-death”, such as 
+self-driving cars or autonomous weapons systems ( Danks , 2022)Technological neutrality – it’s “just a tool”
+
+--- Page 19 ---
+
+•Peterson, Ferreira & Vardi  propose (2023) that technology can distance 
+developers and users perceptually from the consequences of their action
+•They define abstracted power as “ a human actor’s influence or control 
+over a system, process, or dataset which, as a function of the technology 
+that enables it, obscures or distances the human actor from 
+consequences of that influence or control”
+•“The emotional consequences […] are obscured by a technological 
+intermediary – a lever, joystick, keyboard or other user interface” (p. 96)
+•They contend that consequences still occur, but at a remove, so the 
+human may find them easy to dismissPower abstracted by technology
+
+--- Page 20 ---
+
+What is happening here?
+
+--- Page 21 ---
+
+•Peterson et al argue that technological intermediation and 
+computational thinking  are two factors inherent in computer science that 
+contribute to distancing
+•Technological intermediation means that technologies have changed to 
+allow greater opacity between tech developers and their users – they are 
+huge, faceless, global corporations with subtle but enormous influence
+•Computational thinking trains computing students and developers to think 
+in abstractions (variables, data types, algorithms), not emotional or social 
+impacts or messy, unpredictable humans (Peterson & al, 2023)Technological intermediation and 
+computational thinking
+
+--- Page 22 ---
+
+•The most common view of computer technology is that it is an artefact or 
+tool simply available, to use or not use, in order for humans to achieve 
+their objectives and outcomes
+•Technological determinism (also known technological constructivism) is 
+the view that technology appears and more or less causes certain ways of 
+doing, activities and processes; for example, the question “What impact 
+does X/Twitter have on political discourse” assumes that Twitter has a 
+determinate effect (obeys the laws of causality)
+•Technological determinism assumes an inevitable, one -directional 
+relationship between technology and societyTechnological determinism
+
+--- Page 23 ---
+
+•Social determinism proposes that a complex network of human 
+relations, connections and action alone shapes technology (actor -
+network theory)
+•Actor -Network Theorists favour  the term network because it implies no 
+hierarchy, no a priori order relation, and no permanence in relationship
+•Difficulty arises when, in its efforts to avoid a single explanatory 
+trajectory for technological innovation, it treats all elements in the 
+network of actors as equal, describes phenomena rather than 
+explaining them, and fails to identify significant factors or agents in the 
+networkSocial determinism ( eg, Actor -Network 
+Theory)
+
+--- Page 24 ---
+
+•This can be seen as a more neutral or balanced approach between 
+technological determinism and actor -network theory
+•Baym  (2015) proposes that technology affects society by affordances, 
+constraints, preconditions, and unintended consequences
+―Affordances : technology makes tasks easier in our lives
+―Constraints make (some) tasks harder
+―Preconditions limit who can use technology and how
+―Unintended consequences  are unintended impactsSocial shaping of technology
+
+--- Page 25 ---
+
+Practical ethics
+•Practical ethics deals with individuals or groups making 
+decisions that have future impacts, one way or the other
+•There may be personal uncertainties and conflicts of opinion, 
+eg, “Is it better to use technology in this way or that?”, “Have 
+we thought through its impact?” “Just because something has 
+always happened, does that make it right?”
+•Ethics therefore requires that we decide on what is right or 
+wrong in any given situation in order to decide what action to 
+take
+•Next week’s lecture discusses ethical theories
+
+--- Page 26 ---
+
+References
+•Baym , N. K. (2015). Personal connections in the digital age . (2nd ed.) John Wiley & 
+Sons.
+•Danks , D. (2022). Digital ethics as translational ethics. In I. Vasiliu -Feltes , & J. 
+Thomason, Applied ethics in a digital world (pp. 1 -15). IGI Global.
+•Kizza , J. (2017). Ethical and social issues in the information age . (6th ed.). Switzerland: 
+Springer.
+•Peterson, T. L., Ferreira, R., & Vardi , M. Y. (2023). Abstracted Power and Responsibility 
+in Computer Science Ethics Education. IEEE Transactions on Technology and 
+Society ,4(1), 96 -102.
+•Reynolds, G. (2018) Ethics in Information Technology . (6th ed.). US: Cengage.
+•Tavani, H. (2015) Ethics and Technology: Controversies, Questions, and Strategies for 
+Ethical Computing . (5th ed.). US: Wiley.

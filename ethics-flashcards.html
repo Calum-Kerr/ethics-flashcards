@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ethics Flashcards</title>
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 20px;
+            background-color: #f5f5f5;
+            min-height: 100vh;
+            color: #333;
+        }
+        
+        header {
+            width: 100%;
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        
+        h1 {
+            font-size: 24px;
+            margin-bottom: 10px;
+            color: #2c3e50;
+        }
+        
+        .counter {
+            font-size: 16px;
+            color: #7f8c8d;
+            margin-bottom: 15px;
+        }
+        
+        .card-container {
+            width: 100%;
+            max-width: 500px;
+            perspective: 1000px;
+            margin-bottom: 30px;
+        }
+        
+        .card {
+            width: 100%;
+            min-height: 250px;
+            position: relative;
+            transition: transform 0.6s;
+            transform-style: preserve-3d;
+            cursor: pointer;
+        }
+        
+        .card.flipped {
+            transform: rotateY(180deg);
+        }
+        
+        .card-face {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            backface-visibility: hidden;
+            border-radius: 15px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+        }
+        
+        .card-front {
+            background-color: #3498db;
+            color: white;
+        }
+        
+        .card-back {
+            background-color: #2ecc71;
+            color: white;
+            transform: rotateY(180deg);
+        }
+        
+        .card-text {
+            font-size: 18px;
+            line-height: 1.5;
+            margin-bottom: 20px;
+        }
+        
+        .hint {
+            font-size: 14px;
+            opacity: 0.8;
+            position: absolute;
+            bottom: 15px;
+        }
+        
+        .buttons {
+            display: flex;
+            justify-content: space-between;
+            width: 100%;
+            max-width: 500px;
+        }
+        
+        button {
+            padding: 12px 25px;
+            background-color: #34495e;
+            color: white;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 16px;
+            transition: background-color 0.3s;
+        }
+        
+        button:hover {
+            background-color: #2c3e50;
+        }
+        
+        .progress-bar {
+            width: 100%;
+            max-width: 500px;
+            height: 8px;
+            background-color: #ecf0f1;
+            border-radius: 4px;
+            margin-bottom: 20px;
+            overflow: hidden;
+        }
+        
+        .progress {
+            height: 100%;
+            background-color: #3498db;
+            transition: width 0.3s ease;
+        }
+        
+        .controls {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            width: 100%;
+            max-width: 500px;
+        }
+        
+        .shuffle-btn {
+            margin-top: 15px;
+            background-color: #9b59b6;
+        }
+        
+        .shuffle-btn:hover {
+            background-color: #8e44ad;
+        }
+        
+        @media (max-width: 480px) {
+            .card-text {
+                font-size: 16px;
+            }
+            
+            button {
+                padding: 10px 20px;
+                font-size: 14px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Ethics and Computer Ethics Flashcards</h1>
+        <div class="counter" id="counter">Card 1 of 15</div>
+    </header>
+    
+    <div class="progress-bar">
+        <div class="progress" id="progress"></div>
+    </div>
+    
+    <div class="card-container">
+        <div class="card" id="card">
+            <div class="card-face card-front">
+                <div class="card-text" id="question-text">Loading question...</div>
+                <div class="hint">Tap to see answer</div>
+            </div>
+            <div class="card-face card-back">
+                <div class="card-text" id="answer-text">Loading answer...</div>
+                <div class="hint">Tap to see question</div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="controls">
+        <div class="buttons">
+            <button id="prev-btn">Previous</button>
+            <button id="next-btn">Next</button>
+        </div>
+        <button class="shuffle-btn" id="shuffle-btn">Shuffle Cards</button>
+    </div>
+
+    <script>
+        const flashcards = [
+            {
+                question: "What is Moor's definition of a problem in computer ethics?",
+                answer: "A situation where computer technology is essentially involved and there is uncertainty about what to do and how to understand the situation."
+            },
+            {
+                question: "What is a 'policy vacuum' according to Moor?",
+                answer: "A situation created by computers that requires new thinking and the establishment of new policies."
+            },
+            {
+                question: "What are the four main perspectives on technology and society discussed in the lecture?",
+                answer: "Technological neutrality, technological determinism, social determinism (actor-network theory), and social shaping of technology."
+            },
+            {
+                question: "What is 'technological neutrality' and what is a key criticism of this view?",
+                answer: "The view that technology is just a neutral tool. Criticism: Digital technologies can make ethical decisions themselves and have real-world consequences."
+            },
+            {
+                question: "What is 'technological determinism'?",
+                answer: "The view that technology appears and causes certain ways of doing things, assuming an inevitable, one-directional relationship between technology and society."
+            },
+            {
+                question: "According to Baym, what are the four ways technology affects society?",
+                answer: "Through affordances (making tasks easier), constraints (making some tasks harder), preconditions (limiting who can use technology and how), and unintended consequences."
+            },
+            {
+                question: "What is 'abstracted power' in relation to technology?",
+                answer: "A human actor's influence over a system which, due to technology, obscures or distances the actor from the consequences of that influence."
+            },
+            {
+                question: "What two factors contribute to technological distancing according to Peterson et al.?",
+                answer: "Technological intermediation and computational thinking."
+            },
+            {
+                question: "What is 'technological intermediation'?",
+                answer: "The opacity between tech developers and users, where technologies are created by huge, faceless corporations with subtle but enormous influence."
+            },
+            {
+                question: "What is 'computational thinking' and how does it contribute to ethical distancing?",
+                answer: "An approach that trains computing students to think in abstractions (variables, algorithms) rather than emotional or social impacts or unpredictable human behavior."
+            },
+            {
+                question: "What are the four key questions we should ask about any technology?",
+                answer: "Who benefits from it? Who suffers under it? Whom might it empower? Whom might it oppress?"
+            },
+            {
+                question: "What criticisms have been directed at 'Big Tech' corporations?",
+                answer: "Lacking empathy and lacking a sense of responsibility regarding the social problems their technologies have created or exacerbated."
+            },
+            {
+                question: "What is 'social determinism' or 'actor-network theory'?",
+                answer: "The view that a complex network of human relations shapes technology, with no hierarchy or predetermined order in relationships."
+            },
+            {
+                question: "What is a limitation of actor-network theory?",
+                answer: "It treats all elements in the network as equal, describes phenomena rather than explaining them, and fails to identify significant factors or agents."
+            },
+            {
+                question: "What is 'practical ethics'?",
+                answer: "Dealing with individuals or groups making decisions that have future impacts, requiring determination of what is right or wrong in a given situation."
+            }
+        ];
+
+        let currentCardIndex = 0;
+        let isFlipped = false;
+        
+        const card = document.getElementById('card');
+        const questionText = document.getElementById('question-text');
+        const answerText = document.getElementById('answer-text');
+        const counter = document.getElementById('counter');
+        const progress = document.getElementById('progress');
+        const prevBtn = document.getElementById('prev-btn');
+        const nextBtn = document.getElementById('next-btn');
+        const shuffleBtn = document.getElementById('shuffle-btn');
+
+        // Initialize the card
+        function updateCard() {
+            questionText.textContent = flashcards[currentCardIndex].question;
+            answerText.textContent = flashcards[currentCardIndex].answer;
+            counter.textContent = `Card ${currentCardIndex + 1} of ${flashcards.length}`;
+            progress.style.width = `${((currentCardIndex + 1) / flashcards.length) * 100}%`;
+        }
+
+        // Flip the card
+        function flipCard() {
+            isFlipped = !isFlipped;
+            if (isFlipped) {
+                card.classList.add('flipped');
+            } else {
+                card.classList.remove('flipped');
+            }
+        }
+
+        // Go to previous card
+        function previousCard() {
+            if (isFlipped) {
+                flipCard();
+            }
+            currentCardIndex = currentCardIndex === 0 ? flashcards.length - 1 : currentCardIndex - 1;
+            updateCard();
+        }
+
+        // Go to next card
+        function nextCard() {
+            if (isFlipped) {
+                flipCard();
+            }
+            currentCardIndex = currentCardIndex === flashcards.length - 1 ? 0 : currentCardIndex + 1;
+            updateCard();
+        }
+
+        // Shuffle the cards
+        function shuffleCards() {
+            // Fisher-Yates shuffle algorithm
+            for (let i = flashcards.length - 1; i > 0; i--) {
+                const j = Math.floor(Math.random() * (i + 1));
+                [flashcards[i], flashcards[j]] = [flashcards[j], flashcards[i]];
+            }
+            currentCardIndex = 0;
+            if (isFlipped) {
+                flipCard();
+            }
+            updateCard();
+        }
+
+        // Event listeners
+        card.addEventListener('click', flipCard);
+        prevBtn.addEventListener('click', previousCard);
+        nextBtn.addEventListener('click', nextCard);
+        shuffleBtn.addEventListener('click', shuffleCards);
+
+        // Keyboard navigation
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'ArrowLeft') {
+                previousCard();
+            } else if (e.key === 'ArrowRight') {
+                nextCard();
+            } else if (e.key === ' ' || e.key === 'Enter') {
+                flipCard();
+            }
+        });
+
+        // Initialize
+        updateCard();
+    </script>
+</body>
+</html>
