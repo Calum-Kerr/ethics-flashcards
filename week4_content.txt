@@ -1,0 +1,367 @@
+
+
+--- Page 1 ---
+
+11/02/2024
+1
+Computing in 
+Contemporary Society
+Last week
+•We explored the relationship between technology and 
+society, focusing on the digital divide and reasons for 
+digital exclusion, both globally and in the UK
+This week
+•We examine the interaction between technology and 
+democracy1
+2
+
+--- Page 2 ---
+
+11/02/2024
+2
+Social and Global Impacts of IT: the Role 
+of the Internet in Democracy
+Lecture four
+Jyoti Bhardwaj 
+This week’s listening and viewing
+•Listen to “ Taiwan: Hyper -Democracy ” from January 2023
+•Read “ Russia is becoming a cultural wasteland ” from May 
+2023
+•Listen to “ The Gatekeepers, Episode One ” from February 
+20243
+4
+
+--- Page 3 ---
+
+11/02/2024
+3
+To-day’s lecture is about
+•The Internet and democracy
+•Internet shut downs around the world
+•Internet freedom around the world
+•Russian censorship example
+•e-Government 
+•Taiwan’s digital -based open government example
+Is the internet a democratic or anti -
+democratic technology?
+•The arguments for and against focus on the redistribution vs the 
+concentration of power through access to information
+•Information = knowledge, and knowledge = ability to make 
+decisions
+•Decision making that allows self -determination is the fundamental 
+basis of democracy5
+6
+
+--- Page 4 ---
+
+11/02/2024
+4
+Can be considered “democratic” 
+because it
+•Allows individuals, civic groups and journalists to be 
+producers and distributors of information
+•Often by -passes traditional mass media to distribute 
+information ( eg, spreading plans to stage protests/crowd 
+sourcing news and pictures at the same demos)
+•Facilitates the formation of interest group associations 
+independent of the limitations of geography, eg, #metoo
+•Provides access to a broader range of sources of 
+information 
+Can be considered “undemocratic” 
+because
+•It facilitates one-to-many communication which is not always 
+unmediated (ie, it can be intercepted before it reaches the consumer)
+•Already powerful institutions ( eg, governments, media organisations ) 
+can use the internet to consolidate and gain new kinds of power
+•Potential surveillance capacity of the internet lends itself to 
+undemocratic or totalitarian uses
+•Freedom on the net is a corollary of social and political freedom
+•Much of our online experience is dominated by a handful of wealthy and 
+powerful tech companies who are not made responsible for the material 
+promoted and amplified on their platforms7
+8
+
+--- Page 5 ---
+
+11/02/2024
+5
+Social media platforms’ responsibility
+•At the inception of the internet, the WELL (Whole Earth ' Lectronic Link) 
+precursor to social media to communicate and share knowledge in a 
+spirit of goodwill had few users and unwritten rules of behaviour
+•As more people went online, they disregarded this etiquette
+•Two test cases in the US deemed that if a company edited/censored its 
+users’ posts to remove misinformation/indecency/libelous claims, it 
+would be a publisher and legally responsible for users’ posts and could 
+be sued, 
+•If the company left its users’ posts unedited or unchallenged, it would 
+simply be a platform, not legally liable
+Section 230 (US law)
+•US Communications Decency Act, Title V of the Telecommunications 
+Act, 1996 
+•This law, enacted before the major social media platforms were 
+invented, has effectively dissuaded platforms from removing offensive, 
+obscene or untrue content before it is published, giving power without 
+responsibility 
+•No provider or user of an interactive computer service shall be treated 
+as the publisher or speaker of any information provided by another 
+information content provider.9
+10
+
+--- Page 6 ---
+
+11/02/2024
+6
+Access to news –Australian example
+•Australia has taken legislative steps to require tech platforms to 
+negotiate with news organisations to re-distribute news in order to “level 
+the playing field for public interest journalism in the digital age”
+•The Australian competition watchdog has so far not needed to 
+designate a digital platform’s involvement with news organisations to 
+reveal the relationship’s terms
+•Instead, Meta and Google have voluntarily negotiated payments to 
+news organisations such as ABC, SBS and Nine Entertainment
+•The resulting income has been used to fund extra journalists, including 
+reporters in areas which previously had none
+Fig 1: Internet freedom largely mirrors democratic freedom
+11
+12
+
+--- Page 7 ---
+
+11/02/2024
+7
+Fig 2: Global internet freedom declined for the 12th consecutive year
+Freedom on the Net global statistics
+•Global internet freedom declined 
+for the 12th consecutive year in 
+2022
+•The sharpest decline occurred in 
+Russia (now in 5thlowest place)
+•China is in lowest place, followed 
+by Myanmar and Iran
+•Iceland ranks top for internet 
+freedom, the US is 9th, the UK and 
+Taiwan are tied in joint 5thplace
+•The Gambia and Zimbabwe 
+experienced major improvements
+(Freedom House, 2023 )13
+14
+
+--- Page 8 ---
+
+11/02/2024
+8
+Internet in Russia
+•Roskomnadzor (RKN), Russia’s media and telecommunications 
+regulator, requires internet service providers to install a unique, 
+government -produced deep packet inspection (DPI) system that 
+enables the blocking of websites across the country
+•The Kremlin has used this system to block global social media 
+platforms, Ukrainian news sites, and domestic sites that carry any 
+hint of dissent regarding its invasion of Ukraine
+•The coverage period also featured increased Russian blocking of 
+websites that host LGBT+ content
+•Russia scores 21/100 for internet freedom according to Freedom 
+House (2024), compared to 78/100 for Taiwan
+Internet in Russia
+•Although Google is available in Russia, it is not as popular as the 
+Russian -based market leader, Yandex
+•Yandex is the most visited website in Russia
+•Like Google, Yandex offers also cloud storage, email, music streaming, 
+online payments, maps , etc
+•Russia’s biggest social media site with over 75% market share is VK 
+(Vkontakte ) which offers private messaging and sharing photos, status 
+updates, links with friends, communities, video and music streaming, 
+and news
+•Also popular is the free email service mail.ru
+•As of September 2022, roughly six months after the invasion of Ukraine, 
+around 1.2 million internet sites were blocked in Russia15
+16
+
+--- Page 9 ---
+
+11/02/2024
+9
+Internet freedom in Russia
+•Roskomnadzor (RKN) is a Kremlin -established agency responsible for 
+monitoring and policing electronic media, mass communications, 
+information technology and telecommunications
+•In September 2023, Roskomnadzor issued a statement that Russia 
+would block WhatsApp if it disseminated “prohibited information”
+•During the past year, the Russian government continued restricting 
+access to popular censorship circumvention tools such as Virtual Private 
+Network (VPN) services and anonymizers
+•This has further undermined the ability of people in Russia to access 
+information arbitrarily blocked by RKN
+Data privacy in Russia
+•Since the invasion of Ukraine in March 2022, Russian authorities have 
+expanded their control over people’s biometric data, including by 
+collecting such data from banks
+•Russian authorities have expanded the use of facial recognition 
+technology to surveil and persecute activists, particularly those opposing 
+the war in Ukraine and opposing Vladimir Putin17
+18
+
+--- Page 10 ---
+
+11/02/2024
+10
+If all democracy is now digital democracy, what 
+kind of digital democracy do we want?
+Internet shutdowns
+•An internet shutdown is an intentional disruption of the internet or 
+digital communications, which makes those services inaccessible by a 
+specific population 
+•The campaigning non -profit organisation Access Now says it’s “to exert 
+control over the flow of information”
+•Access Now’s mission statement is “We defend and extend the digital 
+rights of users at risk around the world”
+•Access Now’s “ KeepItOn ” campaign pushes against internet 
+shutdowns19
+20
+
+--- Page 11 ---
+
+11/02/2024
+11
+Internet shutdowns
+•Internet shutdowns lead to economic losses arising from the disruption 
+of all aspects of business operations
+•They also harm the informal economy, as digital transactions and the 
+flow of capital enabled by social media platforms are halted
+•Deliberate internet shutdowns cost the global economy $24bn in 2022
+following 114 major outages across 23 countries (Top10VPN, 2023)
+•The most common internet shutdown methods include ordering ISPs to 
+implement multiple localised shutdowns (easier when the ISP is state 
+controlled);  DNS poisoning to render a website or app “invisible”
+•Border Gateway Protocol hijacking deliberately routes internet traffic 
+away from websites; individual users can be targeted and censored 
+through deep packet inspection
+The Internet in Iran
+•Twitter, Facebook, Telegram, and YouTube are all blocked or filtered, 
+plus major blog -hosting platforms like Wix, WordPress, Blogspot, and 
+Blogger; Iran has an internet freedom rating of 11/100 ( Freedom House, 
+2024)
+•Iran’s internet backbone is highly centralised, which allows authorities to 
+restrict connectivity
+•The telecommunications industry is tightly controlled by the government
+•Following the death of Mahsa Amini custody in September 2022, 
+authorities implemented multiple internet shutdowns and mobile 
+disruptions
+•On the first anniversary of her death, the government ordered disruption 
+of the internet and mobile networks to prevent people organising further 
+protests21
+22
+
+--- Page 12 ---
+
+11/02/2024
+12
+Internet shutdowns in South Asia
+•Pakistan has shut down its internet during the 2024 general election
+•Myanmar has shut down its Internet outages often since its military coup
+•India, though nominally the world’s largest democracy (in 2022 it 
+improved its Freedom on the Net ranking slightly following four 
+consecutive years of decline) regularly imposes localised internet 
+shutdowns during protests with central government tacit approval
+•In India, digital activism has driven important social debates and at times 
+has helped usher in policy changes
+•Paradoxically, its government is driving a campaign for “ Digital India ” 
+which includes initiatives to improve connectivity in rural areas, to 
+address the severe urban -rural and gender digital divides
+e-Government definitions
+•The European Commission defines e -government as “using the 
+tools and systems made possible by ICTs to provide better public 
+services to citizens and businesses”
+•The World Bank’s definition of e -Government is “the government 
+owned or operated systems of ICTs that transform relations with 
+citizens, the  private sector and/or other government agencies so 
+as to promote citizens’ empowerment, improve service delivery, 
+strengthen accountability, increase transparency, or improve 
+government efficiency” (2001) 23
+24
+
+--- Page 13 ---
+
+11/02/2024
+13
+The nature and purpose of e -Government
+•The concept of e -government is for communication, transaction, and 
+relationship between a government, its citizens, private sector, 
+ministries and government departments, and its employees 
+•Communication enables online access to government and local 
+authority information about services
+•Transaction allows online payment to government and local authorities 
+for services
+•Relationship encourages active participation by the public in helping 
+government to deliver good services
+Internet freedom in Taiwan
+•Taiwan ranks 6thin the world for internet freedom, and has one of the 
+freest Internet environments in Asia
+•However, internet freedom has declined this year due to concerns about 
+overly broad and opaque website blocking
+•Freedom House commends Taiwan’s civil society, technology sector, 
+and government for taking innovative actions to counteract the negative 
+impact of disinformation campaigns from China
+•The Freedom House 2023 report notes that criminal prosecutions of 
+online activities and concerns about excessive surveillance threaten 
+Internet freedom in Taiwan25
+26
+
+--- Page 14 ---
+
+11/02/2024
+14
+•Taiwan originated the "g0v" (gov -zero) movement, a decentralised civic 
+tech community with information transparency, open results and open 
+cooperation as its core values
+•Taiwan’s government is promoting citizen -led fact -checking and public 
+opinion collation
+•Taiwan has implemented “participation officers” (POs) to increase 
+openness in transparency across all government agencies
+•Their most important task is to assist public sector organisations to 
+listen to the opinions of the public, and plan cross -agency policies in co -
+operation with them
+•POs have skills in public communication, be familiar with policy content, 
+and make good use of web tools e-Government example: Taiwan
+Fig 3: The four elements of Taiwan’s open government
+27
+28
+
+--- Page 15 ---
+
+11/02/2024
+15
+Taiwan’s open government definitions
+•Transparency : “Politics is everyone's business, and the policy process 
+should allow the public to have a clear understanding of "what's going 
+on”.”
+•Participation : “the public is given the opportunity to participate in 
+discussions, express opinions, and even further influence the content 
+of policy on topics of interest.”
+•Accountability : “When the public has doubts about the process of 
+policy formation, we can look back to see what are the reasons”
+•Inclusion : “if the public sector is able to allow the various stakeholders 
+who are directly affected by policy to fully voice their views and able to 
+listen to their dialogues, it can collect as many views as possible to 
+reduce the likelihood of policy errors.”
+Many factors influence the public’s acceptance of and willingness to 
+use e -Government, including:
+•Data security
+•Accessibility to information and services
+•Privacy
+•Transparency
+•Economic factors
+•Education
+•Trust in the governmentAchieving successful e -Government29
+30
+
+--- Page 16 ---
+
+11/02/2024
+16
+Reference
+Freedom House (2023). Technology & Democracy . Retrieved February 6, 2023, from 
+https://freedomhouse.org/issues/technology -democracy
+31

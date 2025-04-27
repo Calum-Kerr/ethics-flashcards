@@ -1,0 +1,117 @@
+
+
+--- Page 1 ---
+
+Research Methods in Computing: 
+
+--- Page 2 ---
+
+Research Methods in ComputingDr. Khristin Fabian
+
+--- Page 3 ---
+
+In this session we will discuss:§Research and research methodologies§Designing surveys§Designing an experiment
+
+--- Page 4 ---
+
+What is research?§We can define research as an activity of systematic enquiry that seeks answers to a problem.
+http://www.tylervigen.com/spurious-correlations
+
+--- Page 5 ---
+
+What is research? §the systematic investigation into and study of materials and sources in order to establish facts and reach new conclusions’(Oxford Dictionary)§a systematic process of investigation, the general process of which is to contribute to the body of knowledge that shapes, guides academic practiceand / or practice disciplines (Tarling & Crofts, 1998)
+
+
+--- Page 6 ---
+
+Classifying research§Field§Position of the research within a hierarchy of topics: ACM https://dl.acm.org/ccsSpeech Recognition < Natural Language Processing < Artificial IntelligenceVirtual Reality < Interaction Paradigms < Human Computer Interaction§Purpose §Theoretical/Fundamental research§To increase understanding§Applied research§To bring about change / solve concrete real-world problems
+
+--- Page 7 ---
+
+Classifying research§Nature §theoretical§formal theory§simulation§observational§exploratory studies §descriptive studies §machine learning§experimental§applied research§applied experimentation§applied observational studyEdgar, T. W., & Manz, D. O. (2017).Research methods for cyber security. Syngress.
+
+--- Page 8 ---
+
+Theoretical/Fundamental Research§Theoretical researchis a logical exploration of a system of beliefs and assumptions. §Purpose: to increase understanding (ideally, by developing new theory or scrutinizing existing theory), §In Cybersecurity: This type of research includes theorizing or defining how a cyber system and its environment behave and then exploring or playing out the implications of how it is defined.§Theoretical computer Science: This area explores the fundamental and foundational aspects of computers and computation. Aiming to improve understanding of computation and its capabilities, limitations and future potential, this research area encompasses research around logic and semantics, and the study of algorithms, complexity and automata (UKRI, 2025)
+
+--- Page 9 ---
+
+Observational Research§This type of research is best to answer open-ended or comparatively broad research questions. §observational researchmethods include sensing of real-world environments and data mining for discovery of interesting artifacts.§Observational research is useful when you are trying to understand a real cyber system (and the associated technosocial behavior).Edgar, T. W., & Manz, D. O. (2017).
+
+--- Page 10 ---
+
+Observational Research§Exploratory Studies§consist of collecting, analyzing, and interpreting observations about known designs, systems, or models, or about abstract theories or subjects§Descriptive studies§focuses in depth on a specific case of some system§Machine learning§looks at using computational algorithms to turn empirical data into usable models.Edgar, T. W., & Manz, D. O. (2017).
+
+--- Page 11 ---
+
+Machine Learning §Cybersecurity§Machine learning algorithms can be used to §(a) gather understanding of the cyber phenomenon that produced the data under study, §(b) abstract the understanding of underlying phenomena in the form of a model, §(c) predict future values of a phenomena using the above-generated model, and §(d) detect anomalous behavior exhibited by a phenomenon under observation.Edgar, T. W., & Manz, D. O. (2017).
+
+--- Page 12 ---
+
+Experimental Research§This is the type of research where a scientist takes concepts and beliefs gained from observation and theorizing and creates targeted, controlled experiments in an attempt to generate evidence in support of, or in contradiction, to their premise.
+Edgar, T. W., & Manz, D. O. (2017).
+
+--- Page 13 ---
+
+Applied Research§Applied research is the process of quantifying how well we applied the knowledge we have learned from basic science to solving some problem.§Purpose: “deliberately intended to bring about social change” (Babbie,2013, p. 18) and to solve concrete real-world problems.
+Edgar, T. W., & Manz, D. O. (2017).
+
+--- Page 14 ---
+
+Applied Research§Applied Experimentation§Benchmarkingis the process of using a set of atomic test cases to evaluate the effectiveness of a solution.§Validation testing, on the other hand, is for evaluating solutions in controlled environments to see how they behave under varied but realistic conditions.§Applied Observational Study§Applied exploratory §Applied descriptiveEdgar, T. W., & Manz, D. O. (2017).
+
+--- Page 15 ---
+
+Classifying research§Research Approach§Quantitative§Qualitative §Mixed
+Creswell and Creswell (2022)
+
+--- Page 16 ---
+
+Common Research Strategies§Survey§Design and creation§Experiments§Case studies§Action research§EthnographyOates et al. (2022). 
+
+--- Page 17 ---
+
+Surveys§Aim: to obtain the same kinds of data from a large group of people (or series of events), in a standardized and systematic way. §Sampling technique§Random sampling§Purposive sampling§Snowball sampling
+Oates et al. (2022). 
+
+--- Page 18 ---
+
+Design and creation§The design and creation research strategy focuses on developing new technology products, also called artefacts (constructs, models, methods or instantiations)§In computing, the research involves analysing, designing and developing a computer-based product. §These projects explore and exhibit the possibilities of digital technology. For such projects to be considered as research, rather than only an illustration of technical prowess, they should demonstrate not just technical skills but also academic qualities such as analysis, explanation, argument, justification and critical evaluation.
+Oates et al. (2022). 
+
+--- Page 19 ---
+
+Experiments§an experiment is a strategy that investigates cause and effect relationships, seeking to prove or disprove a causal link between a factor and an observed outcome. §Hypothesis: Python is an easy language to learn compared to Java.§Hypothesis: students attend lectures more frequently if you don't post handouts in advance.Oates et al. (2022). 
+
+--- Page 20 ---
+
+Experimental Designs§One group pre-test, post-test §Static group comparisons§Pre-test/post-test control group
+Oates et al. (2022). 
+
+--- Page 21 ---
+
+Case studies§focuses on one instance of the ‘thing’ that is to be investigated§This one instance, or case, is studied in depth, using a variety of data generation methods §The aim is to obtain a rich, detailed insight into the ‘life’ of that case and its complex relationships and processes
+Oates et al. (2022). 
+
+--- Page 22 ---
+
+Data Collection Methods§Interviews§Observations §Questionnaires§Documents
+
+--- Page 23 ---
+
+What is wrong with this survey questionnaire?1. Did you find the software easy to use and useful? 2. I did not eagerly anticipate to use the software.3. . It was to easy incorporate the use of the software with my instructional design ideas. 4. How often did you use the software in class? 5. Did you enjoy using the math game in class?6. What do you think is the best feature of this software? ______________________________Scenario: Evaluating a software application for educational use. Respondents: Students and teachers Strongly DisagreeDisagreeNeither agree nor disagreeAgreeStrongly AgreeStrongly DisagreeDisagreeNeither agree nor disagreeAgreeStrongly Agree
+Strongly DisagreeDisagreeNeither agree nor disagreeAgreeStrongly AgreeNeverSeldomSometimesFrequentlyAlwaysNeverSeldomSometimesFrequentlyAlways
+
+--- Page 24 ---
+
+How to design a bad survey instrument1.Create a leading or biased question2.Use double-barrelled questions3.Vague questions4.Negatively worded questions5.Acronyms, Nonspecific of or unfamiliar terms6.Incomplete range or overlapping answer choices7.Absolute answers *always8.Responses that do not match questions9.Not pretesting/piloting the survey10.Excessively long survey(Sullivan & Artino, 2017)
+
+--- Page 25 ---
+
+Designing an experiment
+You have designed a software that grades student essays
+Think of ways of evaluating the software… 
+
+--- Page 26 ---
+
+Resources §Creswell, J. W., & Creswell, J. D. (2022).Research design: Qualitative, quantitative, and mixed methods approaches. Sage publications.§Edgar, T. W., & Manz, D. O. (2017).Research methods for cyber security. Syngress. §Oates, B. J., McLean, R., & Griffiths, M. (2022). Researching information systems and computing.§Sullivan, G. M., & Artino Jr, A. R. (2017). How to create a bad survey instrument.Journal of graduate medical education,9(4), 411-415.

@@ -1,0 +1,362 @@
+
+
+--- Page 1 ---
+
+Computing in 
+Contemporary Society
+
+--- Page 2 ---
+
+The Digital Divide
+Lecture three
+Jyoti Bhardwaj
+
+--- Page 3 ---
+
+Last lecture
+•We examined several schools of ethical thinking which 
+guide how we behave morally and how we view 
+technology
+This lecture
+•We explore relationship between technology and society, 
+focusing on the digital divide and reasons for digital 
+exclusion, both globally and in the UK
+
+--- Page 4 ---
+
+This week’s reading
+•Read “ Nearly half of UK families excluded from modern digital 
+society, study finds ”, newspaper article from March 2024
+•Read “ Kerala is rolling out free broadband for its poorest citizens ,” 
+Guardian article from June 2023
+•Visit Good Things Foundation  the UK’s biggest digital inclusion 
+charity
+•Visit the Lloyds Bank UK Consumer Digital Index 2024
+
+--- Page 5 ---
+
+This week’s lecture is about
+•The global digital divide
+•Digital exclusion around the world
+•Difference in access speeds
+•The digital skills divide in the UK
+
+--- Page 6 ---
+
+The global digital divide
+•Tavani (2016) offers a working definition: “The perceived gap 
+between those who have and do not have access to “information 
+tools” and between those who have and do not have the ability to 
+use those tools”
+•Rooks and Weckert  (2007) described it as a “notoriously muddy 
+term”, implying that the gap is troubling
+•Suggests there are many “divides”:
+ꟷbetween nations (global digital divide) and within nations
+ꟷbetween rich and poor, educated and less educated, people with 
+and without disabilities, men and women
+
+--- Page 7 ---
+
+Fig 1: Number of people in the world offline and online 
+in 2024, in billions (ITU, 2025)
+•Between 2005 and 2019, the 
+number of Internet users grew on 
+average by 10% every year, with a 
+pandemic boost
+•The rising trend masks rising 
+inequality between the developed 
+and less developed world
+•96 per cent of the 2.6 billion people 
+still offline are living in the 
+developing world (all figures from 
+ITU, 2025)
+
+
+--- Page 8 ---
+
+Fig 2: Individuals using the internet (ITU, 2025)
+1617202325283133353740434548535962646568
+01020304050607080
+2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024Percentage of world population
+Year
+
+--- Page 9 ---
+
+Fig 3: Percentage of individuals on the Internet, by 
+geographical area and country’s income (ITU, 2025)
+53 
+25 76 
+54 
+48 76 82 
+17 34 65 88 
+68
+38 87 
+70 66 92 91 
+27 54 81 93 
+0102030405060708090100Percentage
+2019 2024
+
+--- Page 10 ---
+
+Trends in global internet usage
+•After years of steady growth, numbers rose considerably during a 
+“pandemic boost” in 2020 and 2021; however, this was short -lived
+•Inequality between the developed and less developed world means 
+some users are rarely able to be online
+•Poor connectivity and slow speeds
+•Intermittent access to electricity
+•Access is more expensive as a proportion of earnings
+•The digital gender gap is growing fast in developing countries
+
+--- Page 11 ---
+
+The urban vs rural digital divide
+•It is more expensive to convey the Internet to the scattered population 
+in rural areas because of the high cost of infrastructure used for long 
+distances, such as fibre optic cabling
+•Despite the sharp rise in internet usage during the Covid -19 pandemic, 
+the urban -rural gap remains severe  (globally 83% of urban dwellers 
+compared to 48% of rural inhabitants) in 2024
+•Even in Europe, 86% of rural dwellers against 93% of urban dwellers 
+use the internet, often with much poorer speeds
+
+--- Page 12 ---
+
+Fig 4: Percentage of individuals using the internet in urban and rural areas, 2024 
+(Source: ITU, 2025)
+
+
+--- Page 13 ---
+
+The digital gender gap
+•The proportion of women using the Internet globally is 63%, compared 
+to 69% of men
+•The gap is small in developed countries (92% vs 93%), larger in 
+developing countries, most in Least Developed Countries (21% vs 
+32%)
+•The proportion of women using the Internet is higher than that of men 
+in only 8% of countries, while gender equality in Internet use is found 
+in just over one -quarter of countries
+•In the Arab States, Asia and the Pacific, and Africa, the gender gap 
+has been growing
+
+--- Page 14 ---
+
+Fig 5: Internet penetration rate for men and women, 2024 (Source: ITU, 2025)
+
+
+--- Page 15 ---
+
+Lack of skills a barrier to internet use
+•A major barrier to accessing information on the web is illiteracy
+•Another important barrier in the effective use of the Internet is a lack 
+of ICT skills
+•In 40 out of 84 countries for which data are available, less than half 
+the population possesses basic computer skills such as copying a 
+file or sending an e -mail with an attachment
+•For more complex activities (classified as “standard skills”), such as 
+using basic arithmetic formulae in a spreadsheet or downloading 
+and installing new software, the proportions are even lower
+
+--- Page 16 ---
+
+Growth in global internet speeds
+•Average global broadband download speed measured from 9 
+May 2018 to 8 May 2019 was 11.03Mbps 
+•Average speed in 2020 was 24.83 Mbps (first pandemic year)
+•Average speed in 2021 was 29.79 Mbps
+•Average speed in 2022 was 35.98 Mbps
+•Average speed in 2023 was 46.79 Mbps
+•Latest average global broadband speed in 2024 is 55.38 Mbps
+•But fixed and mobile broadband speeds vary wildly between 
+nations!
+
+--- Page 17 ---
+
+Fig 6: The fastest and slowest countries for broadband speed, 2024
+
+
+--- Page 18 ---
+
+Fig 7: Countries with fastest internet speeds, 2024
+•Interactive map of World broadband speeds 2023
+
+
+--- Page 19 ---
+
+
+
+--- Page 20 ---
+
+Fig 9: UK 
+Government 
+Essential Digital 
+Skills Framework
+
+
+--- Page 21 ---
+
+Foundation level skillsTable 1: Foundation Level Tasks Summary 
+(Lloyds Bank, 2024)No, I can’t do 
+this task% cannot do
+I can turn on the device and enter any account login 733,000 4%
+I can use the available controls on my device (e.g. mouse, 
+keyboard, touchscreen)634,000 4%
+I can use the different settings on my device to make it easier 
+to use (e.g. adjust font size, volume, brightness)977,000 7%
+I can find and open different applications/programs/platforms 906,000 5%
+I can set up a connection to a Wi -Fi network on my devices 
+(e.g. when at home, work, out in public, visiting friends)1,188,000 8%
+I can open an Internet browser to find and use websites 693,000 4%
+I can keep my login information and passwords for a device 
+and any accounts secure980,000 7%
+I can update and change my password when prompted 864,000 6%
+
+--- Page 22 ---
+
+Foundation (most basic) digital skills
+•In the UK today, 15% of adults aged 18+ are without the Foundation 
+Level (i.e. they are either digitally disengaged or have Partial 
+Foundation Level)
+•Profiles of the digitally disengaged have demonstrated that those most 
+likely to be in this group are:
+−Older individuals
+−Those living alone
+−People with lower levels of education
+−Those with impairments
+
+--- Page 23 ---
+
+Tables 2, 3: Demographics 
+of foundation skills
+
+--- Page 24 ---
+
+Table 4: Foundation skills and 
+educational level
+
+
+--- Page 25 ---
+
+Fig 10: Improving figures for foundation digital skills
+•Numbers 
+without basic 
+skills are 
+improving, 
+though this 
+appears to be 
+levelling off
+•Figures for the 
+75+ age group 
+are 
+encouraging
+
+
+--- Page 26 ---
+
+Perceived benefits of digital skills
+•A comprehensive recent survey (Lloyds Bank, 2024) indicated that, despite the 
+fact that 99% of people have used the internet at least once in the past three 
+months, 15% (6.8 million people) of the UK population are unable to do some 
+of the most basic digital tasks. They are likely to struggle interacting with 
+online services and are at risk of being left behind and left out of society  
+•Those with an impairment are less likely to be online and are:
+‒1.5 times more likely to struggle interacting with the NHS
+‒2.2 times more likely to have difficulty interacting with charities providing 
+support
+‒2.5 times more likely to have difficulty interacting with housing associations
+
+--- Page 27 ---
+
+Fig 11: Essential digital skills for life and employment 
+(Lloyds, 2024)
+
+
+--- Page 28 ---
+
+Fig 12: UK digital capability segment characteristics, n=998,754  (Lloyds, 
+2024)
+
+
+--- Page 29 ---
+
+Fig 13: Essential digital skills for Life and Work
+
+
+--- Page 30 ---
+
+What would you recommend as the 
+best way to improve internet skills?
+1.Amongst those in education?
+2.In developed countries?
+3.In the least developed countries?
+4.What would you recommend for the older population?
+
+--- Page 31 ---
+
+UK digital skills example: Universal Credit
+•Universal credit replaced six different welfare benefits and aims to 
+make claiming easier
+•You can make a claim for Universal Credit only online
+•It is an example of a “digital by default” benefit
+•Newspaper and social media stories cited hardship owing to digital 
+exclusion and long waits
+•Charities such as Good Things Foundation offer basic digital skills 
+resources online
+
+--- Page 32 ---
+
+Scotland’s Digital Inclusion Charter
+•Aimed at organisations  of all 
+kinds ( public, private or 
+voluntary sector) to encourage 
+them to sign up and recognise 
+what they’re doing to promote 
+digital inclusion in Scotland
+•They estimate around 700,000 
+people can’t currently access 
+the internet, thus excluding 
+them from the benefits of 
+being online
+
+
+--- Page 33 ---
+
+Accenture initiative, UK  example
+•In September 2024, Accenture announced a new initiative to help 
+tackle the UK’s digital inclusion gap called “Regenerative AI”
+•Between 2024 and 2027, Accenture hopes Regenerative AI will 
+bring community partners and organisations together with 
+volunteers from Accenture to help over a million people build their AI 
+skills
+•The series of programmes aims to enable people in 
+socioeconomically disadvantaged communities to access devices, 
+data and AI literacy courses
+
+--- Page 34 ---
+
+Age and digital exclusion, UK  example
+•A study by Hu and Qian (2021) assessed social interactions across 
+households and mental wellbeing during the pandemic
+•They found that an older person who had only virtual contact during 
+lockdown experienced greater loneliness and negative mental 
+health impacts than an older person who had no contact with other 
+people at all
+•The problem was that older people unfamiliar with technology found 
+it so stressful to learn how to use it, that it was more damaging to 
+their mental health than simply coping with isolation and loneliness
+
+--- Page 35 ---
+
+References
+Hu, Y., & Qian, Y. (2021). COVID -19, inter -household contact and mental well -being 
+among older adults in the US and the UK. Frontiers in sociology , 143, 1 -15.
+Lloyds Bank. (2024, November). The UK’s largest study of digital and financial lives. 
+Retrieved January 18, 2025, from UK Consumer Digital Index 2024: lb-consumer -
+digital -index -2024 -report.pdf
+Office for National Statistics (2020) Internet access – households and individuals, 
+Great Britain: 2020, 21 April 2021. Retrieved December 7, 2024 
+https://www.ons.gov.uk/businessindustryandtrade/itandinternetindustry/bulletins/in
+ternetusers/2020  
+Tavani, H (2016) Ethics and technology: Controversies, questions, and strategies 
+for ethical computing (5th ed). US: Wiley.

@@ -1,0 +1,265 @@
+
+
+--- Page 1 ---
+
+Computing in 
+Contemporary Society
+
+--- Page 2 ---
+
+Ethical Theories and Perspectives
+Lecture two
+Jyoti Bhardwaj
+
+--- Page 3 ---
+
+•Tracking devices increasingly used by Australian domestic 
+violence offenders -newspaper article from June 2024
+•Would you save a boy from drowning Simple illustration to 
+explain different moral philosophies, including Utilitarianism 
+and Deontology
+•“Facial Recognition: Last Week Tonight with John Oliver ” –
+YouTube link on MoodleThis week’s reading and viewing
+
+--- Page 4 ---
+
+•This video introduces the Advanced search in 
+LibrarySearch and shows you how to build effective 
+searches:
+•Finding academic sources for your coursework
+•This video is a half hour introduction to the basics of 
+Mendeley -including how to install Mendeley Reference 
+Manager, import PDFs and references, and insert 
+references and a bibliography into a Word document
+•Introduction to MendeleyFinding academic sources for a complex topic
+
+--- Page 5 ---
+
+Last week
+•We defined ethics and discussed the reasons why, as 
+technological innovations appear, there is a need to ask 
+ethical questions; we discussed differing views of the 
+relationship between technology and society
+This week
+•We examine several schools of ethical thinking and 
+philosophical perspectives which guide how we might use 
+technology in a morally sound way
+
+--- Page 6 ---
+
+This lecture is about:
+•Practical ethics and the dialectic method as a basis for reasoned 
+argument
+Traditions of ethical thought:
+•Rule-based / religion -based ethics
+•Consequentialist schools of ethical thought
+— Utilitarianism
+— Egoism
+— Altruism 
+•Deontology
+
+--- Page 7 ---
+
+Our discussion so far…
+•We have determined that we should  examine the relationship 
+between technology and society, not just assume (simplistic or 
+cowardly) deterministic or neutral standpoints
+•Examining the morality of the issues around technology means 
+taking a stand on what is right or wrong from a human 
+perspective – because humans are more important than things 
+•We must ask practical ethical questions : “What is good about 
+this technology beyond its utility?”, “Is the impact of this 
+technology unfair?” “Just because we can build a technology, 
+does it mean we have  to?”
+•To determine what is right or wrong in any given subject, we 
+should examine the case, question, topic or situation for its 
+underlying principle first
+
+--- Page 8 ---
+
+Practical ethics      theories of ethics
+•We must connect the principle or value to a particular 
+situation and consider arguments for various courses of 
+action or decisions
+•The dialectic method examines situations to discover their 
+underlying ethical issues
+•This creates a kind of Socratic dialogue (though Socrates 
+did it through questioning)
+•When we realise  what the ethical problem is, there are 
+different perspectives or traditions of ethical thought we can 
+use to decide what is the right or moral course of action
+
+--- Page 9 ---
+
+Traditions of ethical thought: 
+rules based ethics
+In this tradition, bad actions can be avoided by means of a set of 
+rules, e.g. the ten commandments (Jewish and Christian) below, or 
+other religious rules
+1.You shall have no other gods before Me
+2.You shall make no idols
+3.You shall not take the name of the Lord your God in vain
+4.Keep the Sabbath day holy
+5.Honour  your father and your mother
+
+--- Page 10 ---
+
+Traditions of ethical thought: 
+rules based ethics
+6.You shall not murder
+7.You shall not commit adultery
+8.You shall not steal
+9.You shall not bear false witness against your neighbour
+10.You shall not covet
+•It is arguably difficult to generalise  these ancient rules to the complex 
+ethical problems faced in the modern computer world
+•On what moral basis would we devise rules for new situations ( eg, is it 
+right to intercept e -mail? Is using a drone to drop bombs “better”?)
+
+--- Page 11 ---
+
+•Also known as teleological  theories, they consider the 
+consequences  of an action as a measure of goodness
+•They contrast with deontological theories, which emphasise  the 
+rightness of an action above the goodness it produces
+•In Consequentialism, the right action is understood entirely in terms 
+of consequences produced: three schools of thought are 
+Utilitarianism, Altruism and Egoism
+•The most important, Utilitarianism, had early proponents in 18th 
+century philosophers, David Hume and Francis HutchesonConsequentialist schools of ethical 
+thought
+
+--- Page 12 ---
+
+•Scottish philosopher David Hume (1711 -1776) rejected religion in 
+favour  of basing moral judgements on consequences and proof, 
+rather than intuition or conscience; in this respect, ethics is an 
+extension of empiricism
+•If an act is vicious, its viciousness is a matter of the (observable) 
+human response to the act
+•His views influenced UtilitarianismConsequentialist schools of ethical 
+thought
+
+--- Page 13 ---
+
+•Francis Hutcheson (1694 -1746) was a Scots -Irish philosopher  
+based in Glasgow and leading member of the Scottish 
+Enlightenment
+•“That action is best, which procures the greatest happiness for the 
+greatest numbers” (Hutcheson, 1725); the test or criterion of right 
+action is its tendency to promote the general welfare of mankind
+•Hutcheson anticipated the utilitarianism of Jeremy Bentham – and 
+not only in principle, but even in the use of the phrase "the greatest 
+happiness for the greatest number”Consequentialist schools of ethical 
+thought
+
+--- Page 14 ---
+
+Consequentialist schools of ethics: 
+Utilitarianism 
+•Jeremy Bentham (1748 -1832) was an English philosopher, and arguably 
+the greatest proponent of Utilitarianism
+•Utilitarianism evaluates actions based on their consequences for overall 
+happiness, and the good of an action is in the utility it produces, not in the 
+action itself 
+•“Actions are right in proportion as they tend to promote the greatest 
+pleasure or happiness” (John Stuart Mill, 1863)
+•Utilitarianism is also distinguished by impartiality and agent -neutrality: 
+everyone's happiness counts the same, eg, my good counts for no more 
+than anyone else's good
+
+--- Page 15 ---
+
+Consequentialist schools of ethics: 
+Egoism
+•This theory puts an individual’s interests above every other 
+consideration 
+•Ethical egoism claims “I morally ought to perform some action if, and 
+only if, and because, performing that action maximises  my self -interest”
+•Any action is good as long as it maximises  an individual’s happiness
+•What distinguishes Egoism from Utilitarianism is the scope of the 
+relevant consequences. (In the utilitarian view one ought to maximise  
+the overall good — that is, consider the good of others as well as one's 
+own good, and neither is more important than the other)
+
+--- Page 16 ---
+
+Consequentialist schools of ethics: 
+Altruism
+•In altruism, an action is right if it is favourable  to all except the actor
+•Altruistic acts need not involve self -sacrifice, and they remain altruistic 
+even when they are performed from a mixture of motives, some of which 
+are disinterested and some self-interested
+•Reciprocal  altruists display that behaviour towards those from whom 
+they have received it, or from whom they expect to receive it ( eg, a quid 
+pro quo)
+•Universal  altruism, often seen as the central ethical prescription of 
+Christianity, is unconditional
+
+--- Page 17 ---
+
+Traditions of Ethical Thought: Deontology 
+•This term derives from Greek ‘ deon ’ = duty
+•Stresses duties, rights and ethics of actions per se
+•Examines whether an action is morally right or wrong in itself, 
+irrespective of its consequences
+•Importance is attached to the motive of a decision
+•Immanuel Kant (1724 -1804), German philosopher, is the most important 
+proponent of deontological, or duty based, ethics – that the sole feature 
+that gives an action moral worth is not the outcome that is achieved by 
+the action, but the motive that is behind the action 
+
+--- Page 18 ---
+
+Traditions of Ethical Thought: Deontology 
+•Within the domain of moral theories that assess our choices, 
+deontologists stand in opposition to consequentialists
+•Immanuel Kant is known for his theory that there is a single moral 
+obligation, which he called the "Categorical Imperative" 
+•Kant’s categorical imperative is “always act out of respect for the moral 
+law”
+•For Kant, categorical imperatives are principles that are intrinsically valid; 
+they are good in and of themselves; they must be obeyed in all, and by 
+all, situations and circumstances if our behaviour is to observe the moral 
+law
+
+--- Page 19 ---
+
+•Different societies, organisations and individuals have different 
+moral values and espouse different ethical stances at different times
+•There are few absolute rules
+•Individual belief sets may be inherited from family, friends, 
+workplace culture etc
+•There are therefore no absolutes - “Ethical Relativism”
+•The dialectic method does not always lead to a definitive conclusion 
+about what should be done or what was wrong, but almost always 
+leads towards achieving objectivity and better understanding Ethics in practice
+
+--- Page 20 ---
+
+Including ethics in your coursework
+•For your coursework, you must incorporate ethical theory 
+into your chosen title’s literature review
+•First you need to determine what is problematic or morally 
+or ethically wrong in the subject by an initial reading round 
+the subject generally ( eg, Wikipedia, newspaper articles)
+•Next, use Google Scholar, Web of Science and the Library 
+Catalogue to find refereed journal articles that a) inform the 
+reader about some aspect of the topic and b) build up a 
+range of different angles or perspectives on the ethical 
+problem(s)
+
+--- Page 21 ---
+
+Including ethics in your coursework
+•Some journal articles will explicitly mention ethical theories, 
+but many don’t; you need to read carefully to work out if the 
+authors’ views are influenced by technological determinism
+•What is right or good from a Utilitarian, altruistic, egoistic 
+perspective? What is right or good from the opposing 
+Deontological perspective? 
+•Try to explore all sides of your topic informatively and 
+backed up by evidence from references
+•To give your coursework the correct theoretical content, 
+use the ethical standpoints and philosophical traditions 
+from lectures 1 and 2

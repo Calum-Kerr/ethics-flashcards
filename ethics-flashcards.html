@@ -169,7 +169,7 @@
 <body>
     <header>
         <h1>Ethics and Computer Ethics Flashcards</h1>
-        <div class="counter" id="counter">Card 1 of 15</div>
+        <div class="counter" id="counter">Card 1 of 57</div>
     </header>
 
     <div class="progress-bar">
@@ -203,6 +203,7 @@
 
     <script>
         const flashcards = [
+            // Lecture 1: Ethics and Computer Ethics
             {
                 question: "What is Moor's definition of a problem in computer ethics?",
                 answer: "A situation where computer technology is essentially involved and there is uncertainty about what to do and how to understand the situation."
@@ -228,40 +229,270 @@
                 answer: "Through affordances (making tasks easier), constraints (making some tasks harder), preconditions (limiting who can use technology and how), and unintended consequences."
             },
             {
-                question: "What is 'abstracted power' in relation to technology?",
-                answer: "A human actor's influence over a system which, due to technology, obscures or distances the actor from the consequences of that influence."
-            },
-            {
-                question: "What two factors contribute to technological distancing according to Peterson et al.?",
-                answer: "Technological intermediation and computational thinking."
-            },
-            {
-                question: "What is 'technological intermediation'?",
-                answer: "The opacity between tech developers and users, where technologies are created by huge, faceless corporations with subtle but enormous influence."
-            },
-            {
-                question: "What is 'computational thinking' and how does it contribute to ethical distancing?",
-                answer: "An approach that trains computing students to think in abstractions (variables, algorithms) rather than emotional or social impacts or unpredictable human behavior."
-            },
-            {
-                question: "What are the four key questions we should ask about any technology?",
-                answer: "Who benefits from it? Who suffers under it? Whom might it empower? Whom might it oppress?"
-            },
-            {
-                question: "What criticisms have been directed at 'Big Tech' corporations?",
-                answer: "Lacking empathy and lacking a sense of responsibility regarding the social problems their technologies have created or exacerbated."
-            },
-            {
                 question: "What is 'social determinism' or 'actor-network theory'?",
                 answer: "The view that a complex network of human relations shapes technology, with no hierarchy or predetermined order in relationships."
             },
             {
-                question: "What is a limitation of actor-network theory?",
-                answer: "It treats all elements in the network as equal, describes phenomena rather than explaining them, and fails to identify significant factors or agents."
-            },
-            {
                 question: "What is 'practical ethics'?",
                 answer: "Dealing with individuals or groups making decisions that have future impacts, requiring determination of what is right or wrong in a given situation."
+            },
+
+            // Lecture 2: Ethical Theories and Perspectives
+            {
+                question: "What is the dialectic method in practical ethics?",
+                answer: "A method that examines situations to discover underlying ethical issues, creating a Socratic dialogue to determine the right or moral course of action."
+            },
+            {
+                question: "What is a limitation of rules-based ethics in modern computing?",
+                answer: "Ancient rules can be difficult to generalise to complex ethical problems in modern computing, raising questions about the moral basis for devising rules for new situations."
+            },
+            {
+                question: "What are consequentialist (teleological) theories of ethics?",
+                answer: "Theories that consider the consequences of an action as a measure of goodness, contrasting with deontological theories which emphasise the rightness of an action itself."
+            },
+            {
+                question: "What is Utilitarianism and who were its key proponents?",
+                answer: "A theory that evaluates actions based on their consequences for overall happiness. Key proponents include Jeremy Bentham, John Stuart Mill, David Hume, and Francis Hutcheson."
+            },
+            {
+                question: "How does Egoism differ from Utilitarianism?",
+                answer: "Egoism puts an individual's interests above every other consideration, while Utilitarianism considers the good of others as well as one's own good, with neither being more important."
+            },
+            {
+                question: "What is Altruism in ethical theory?",
+                answer: "A theory where an action is right if it is favourable to all except the actor. Universal altruism is unconditional, while reciprocal altruism is conditional on receiving or expecting to receive it."
+            },
+            {
+                question: "What is Deontology and who is its most important proponent?",
+                answer: "An ethical theory that stresses duties, rights, and ethics of actions per se, examining whether an action is morally right or wrong in itself, irrespective of consequences. Immanuel Kant is its most important proponent."
+            },
+            {
+                question: "What is Kant's 'Categorical Imperative'?",
+                answer: "Principles that are intrinsically valid and must be obeyed in all situations if behaviour is to observe moral law. Kant's imperative is to 'always act out of respect for the moral law.'"
+            },
+
+            // Lecture 3: The Digital Divide
+            {
+                question: "What is Tavani's definition of the digital divide?",
+                answer: "The perceived gap between those who have and do not have access to 'information tools' and between those who have and do not have the ability to use those tools."
+            },
+            {
+                question: "What percentage of the world population remained offline as of 2024?",
+                answer: "Approximately 32% (2.6 billion people), with 96% of those still offline living in developing countries."
+            },
+            {
+                question: "What is the urban vs rural digital divide globally?",
+                answer: "Globally, 83% of urban dwellers use the internet compared to only 48% of rural inhabitants, with rural areas facing higher infrastructure costs and poorer internet speeds."
+            },
+            {
+                question: "What is the digital gender gap globally?",
+                answer: "Globally, 63% of women use the internet compared to 69% of men, with the gap being small in developed countries (92% vs 93%) but significant in least developed countries (21% vs 32%)."
+            },
+            {
+                question: "What are the major barriers to internet use in developing countries?",
+                answer: "Illiteracy, lack of ICT skills, poor connectivity, slow speeds, intermittent access to electricity, and higher relative cost of access as a proportion of earnings."
+            },
+            {
+                question: "What percentage of UK adults lack foundation digital skills?",
+                answer: "15% (6.8 million people), with those most likely to be digitally excluded being older individuals, those living alone, people with lower levels of education, and those with impairments."
+            },
+
+            // Lecture 4: The Role of the Internet in Democracy
+            {
+                question: "What are the democratic aspects of the internet?",
+                answer: "It allows individuals to produce and distribute information, bypasses traditional media, facilitates interest group associations independent of geography, and provides access to broader information sources."
+            },
+            {
+                question: "What are the undemocratic aspects of the internet?",
+                answer: "One-to-many communication can be intercepted, powerful institutions can consolidate power, surveillance capacity enables totalitarian uses, and a handful of tech companies dominate online experience with limited responsibility."
+            },
+            {
+                question: "What is Section 230 of the US Communications Decency Act?",
+                answer: "A 1996 law that shields platforms from legal liability for user content, effectively dissuading platforms from removing offensive, obscene, or untrue content, giving them power without responsibility."
+            },
+            {
+                question: "What is an internet shutdown and what are its economic impacts?",
+                answer: "An intentional disruption of internet or digital communications to control information flow. Deliberate shutdowns cost the global economy $24 billion in 2022 following 114 major outages across 23 countries."
+            },
+            {
+                question: "What is e-Government according to the World Bank?",
+                answer: "Government owned or operated systems of ICTs that transform relations with citizens, the private sector and/or other government agencies to promote empowerment, improve service delivery, strengthen accountability, increase transparency, or improve efficiency."
+            },
+            {
+                question: "What are the four elements of Taiwan's open government?",
+                answer: "Transparency (making the policy process clear), participation (allowing public input), accountability (being able to review policy formation reasons), and inclusion (involving stakeholders affected by policy)."
+            },
+
+            // Lecture 5: Algorithms and Algorithmic Bias
+            {
+                question: "What is the difference between AI algorithms and machine learning algorithms?",
+                answer: "AI algorithms provide instructions for AI technology to think and react to data intuitively, while machine learning algorithms are sets of rules used by AI systems to discover insights or predict outputs, enabling machine learning to learn and adapt."
+            },
+            {
+                question: "What is algorithmic bias according to Kordzadeh & Ghasemaghei?",
+                answer: "A systematic deviation from equality that emerges in the outputs of an algorithm, potentially having an adversarial impact on protected or unprotected groups due to inaccurate modeling."
+            },
+            {
+                question: "What are the three main sources of algorithmic bias according to Stinson?",
+                answer: "Biased data (training datasets), biased people (products built for one group with side-effects for others), and biased algorithms (the design and implementation itself)."
+            },
+            {
+                question: "What is training data bias and what are its types?",
+                answer: "Bias that occurs when training data is not representative of the real world. Types include selection bias, coverage bias, non-response bias, sampling bias, and out-group homogeneity bias."
+            },
+            {
+                question: "What is method bias in algorithms?",
+                answer: "Bias that results from methods providing generic insights not suitable for specific contexts. Types include overgeneralization, correlation fallacy (confusing correlation with causation), confirmation bias, and automation bias."
+            },
+            {
+                question: "What is societal bias in algorithms?",
+                answer: "Bias that reflects societal inequities. Types include historical bias (reflecting past inequities), implicit bias (assumptions based on personal experiences), and reporting bias (frequency in datasets not reflecting real-world frequency)."
+            },
+            {
+                question: "What is the Robo-debt scandal and what biases did it demonstrate?",
+                answer: "An Australian automated system for identifying welfare overpayments that resulted in many false debt notices. It demonstrated data bias (overgeneralization), method bias (using averages instead of actual earnings), and societal bias (targeting marginalized people and shifting burden of proof)."
+            },
+
+            // Lecture 6: Datafication and Data Justice
+            {
+                question: "What is datafication according to Cukier and Mayer-Schonberger?",
+                answer: "The process of turning human behaviour and social activities into data points that can be collected and analysed, rendering the social and natural world in machine-readable digital format."
+            },
+            {
+                question: "What are examples of datafication in education?",
+                answer: "Learning analytics, AI for monitoring and assessment, student engagement systems, online learning platforms, robot/chatbot teaching assistants, classroom response systems, standardized assessments, and university rankings."
+            },
+            {
+                question: "What are the main risks and challenges of datafication?",
+                answer: "Privacy concerns, algorithmic bias, surveillance, filter bubbles and echo chambers, and pedagogic reductionism/quantification bias (focusing only on what can be measured)."
+            },
+            {
+                question: "What is data justice according to Linnet (2017)?",
+                answer: "Fairness in the way people are made visible, represented, and treated as a result of their production of digital data, encompassing visibility, engagement with technology, and non-discrimination."
+            },
+            {
+                question: "What are the six pillars of data justice according to GPAI (2022)?",
+                answer: "Power (understanding how power operates in data collection), equity (confronting root causes of data injustices), access (ensuring equitable access to benefits), identity (addressing social character of data), participation (democratizing data practices), and knowledge (recognizing diverse forms of knowledge)."
+            },
+            {
+                question: "What are the requirements for human flourishing in a datafied society?",
+                answer: "Accessible, stable, and trustworthy infrastructure; supportive legal and regulatory framework for secure online interactions; and informed understanding for all stakeholders of the technologies in place."
+            },
+
+            // Lecture 7: Privacy and Data Protection
+            {
+                question: "What is the difference between privacy and data protection?",
+                answer: "Privacy refers to an individual's right to control access to their personal information, while data protection refers to the legal, technical, and organisational measures used to safeguard this information from unauthorized access, misuse, or breaches."
+            },
+            {
+                question: "What are the seven key principles of privacy and data protection?",
+                answer: "Lawfulness, fairness, and transparency; purpose limitation; data minimisation; accuracy; storage limitation; integrity and confidentiality; and accountability."
+            },
+            {
+                question: "How has privacy and data protection regulation evolved?",
+                answer: "From the 1980 OECD Guidelines to the 1995 EU Directive 95/46/EC, to the 2018 GDPR which established a single, uniform law across all EU member states, with the UK retaining GDPR principles post-Brexit through the UK GDPR and Data Protection Act 2018."
+            },
+            {
+                question: "What are the major challenges in privacy and data protection?",
+                answer: "Big data and AI processing personal data without explicit consent, cross-border data transfers with varying privacy laws, cybersecurity threats, government surveillance, and limited consumer awareness of how data is collected and used."
+            },
+            {
+                question: "What privacy risks do facial recognition and biometric surveillance pose?",
+                answer: "Lack of informed consent, inability to reset compromised biometric data unlike passwords, racial and gender bias in algorithms, and potential for mass surveillance and government overreach."
+            },
+            {
+                question: "What are Privacy-Enhancing Technologies (PETs)?",
+                answer: "Technologies like encryption, anonymization techniques, and blockchain that help protect personal data by reducing the risk of unauthorized access, with AI also being used to improve compliance by monitoring data usage and detecting potential violations."
+            },
+
+            // Lecture 8: Computer & Related Crimes
+            {
+                question: "What are the two broad categories of cybercrime?",
+                answer: "Computer-enabled crimes (traditional crimes facilitated by computers) and computer-dependent crimes (crimes that can only be committed using computers)."
+            },
+            {
+                question: "What does Section 1 of the Computer Misuse Act 1990 cover?",
+                answer: "Hacking and unauthorized access to computer systems or data, which is considered an offense even if no data theft or system damage occurs."
+            },
+            {
+                question: "What does Section 3 of the Computer Misuse Act 1990 cover?",
+                answer: "Denial-of-Service (DoS) attacks and malware deployment, constituting unauthorized acts intended to impair the operation of a computer."
+            },
+            {
+                question: "Under which law are phishing and online fraud typically prosecuted in the UK?",
+                answer: "The Fraud Act 2006, particularly Section 2 (Fraud by False Representation), which involves deception to acquire sensitive data such as credentials or financial information."
+            },
+            {
+                question: "What is the difference between identity theft and identity fraud?",
+                answer: "Identity theft involves unlawful acquisition of personal information, while identity fraud refers to using that information to commit further crimes, both governed under the Fraud Act 2006."
+            },
+            {
+                question: "What are the key laws enforced by the Information Commissioner's Office (ICO)?",
+                answer: "Data Protection Act 2018, GDPR, Privacy and Electronic Communications Regulations (PECR) 2003, Freedom of Information Act 2000, Environmental Information Regulations 2004, and Investigatory Powers Act 2016."
+            },
+            {
+                question: "What are the Network and Information Systems (NIS) Regulations 2018?",
+                answer: "Regulations derived from EU Directive 2016/1148 that aim to improve the security of network and information systems for essential services and digital providers, applying to both public and private sector operators."
+            },
+
+            // Lecture 9: Professionalism and the Computing Profession
+            {
+                question: "What are the core characteristics of a profession?",
+                answer: "Monopoly of expertise, self-regulation, public trust, legal or charter-based establishment, ethical foundations (integrity, responsibility, accountability), and commitment to lifelong learning."
+            },
+            {
+                question: "Why is computing not fully recognized as a profession like medicine or law?",
+                answer: "Computing does not require formal licensure or membership in a professional body for most roles, has no unified legally recognized code of ethics, no single licensing authority, and titles like 'software engineer' are not protected by law."
+            },
+            {
+                question: "What problems exist in defining a core body of knowledge for computing?",
+                answer: "Computing encompasses a broad and evolving set of disciplines, is inherently interdisciplinary, has rapid innovation creating curriculum variability, and follows a 'core-plus-specialism' structure with no consensus on what constitutes 'core' knowledge."
+            },
+            {
+                question: "What are the limitations of industry certifications in computing?",
+                answer: "Most certifications are narrowly focused on vendor-specific technologies, do not promote understanding of underlying theoretical concepts, lack coordination among certifying bodies, and typically omit ethical, legal, and societal considerations."
+            },
+            {
+                question: "What are the key hard skills in computing according to Jones et al. (2018)?",
+                answer: "Programming (proficiency in languages like Python, Java), database expertise, networking and system administration, and knowledge of development methodologies (Agile, Scrum, DevOps)."
+            },
+            {
+                question: "What are the key soft skills in computing according to Jones et al. (2018)?",
+                answer: "Communication (conveying complex technical information clearly), teamwork (engaging with cross-functional teams), problem-solving and critical thinking, and adaptability (remaining open to new tools and methodologies)."
+            },
+            {
+                question: "Why does under-representation in computing matter?",
+                answer: "It reinforces broader societal inequalities, homogeneous teams may create technologies that reproduce social biases, excluding capable individuals limits both social impact and economic potential, and technologies may lack moral insight and legitimacy without inclusive participation."
+            },
+
+            // Lecture 10: Research Methods in Computing
+            {
+                question: "What is research according to the Oxford Dictionary?",
+                answer: "The systematic investigation into and study of materials and sources in order to establish facts and reach new conclusions."
+            },
+            {
+                question: "What is the difference between theoretical/fundamental research and applied research?",
+                answer: "Theoretical research aims to increase understanding (ideally by developing new theory), while applied research aims to bring about change or solve concrete real-world problems."
+            },
+            {
+                question: "What are the three main types of observational research according to Edgar & Manz?",
+                answer: "Exploratory studies (collecting and analyzing observations about known designs or theories), descriptive studies (focusing in depth on a specific case), and machine learning (using computational algorithms to turn empirical data into usable models)."
+            },
+            {
+                question: "What is experimental research and what does it investigate?",
+                answer: "Research where a scientist creates targeted, controlled experiments to generate evidence supporting or contradicting a premise. It investigates cause and effect relationships, seeking to prove or disprove a causal link between a factor and an observed outcome."
+            },
+            {
+                question: "What are the common research strategies in computing according to Oates et al.?",
+                answer: "Survey, design and creation, experiments, case studies, action research, and ethnography."
+            },
+            {
+                question: "What is the design and creation research strategy?",
+                answer: "A strategy that focuses on developing new technology products or artifacts (constructs, models, methods, or instantiations), involving analyzing, designing, and developing a computer-based product while demonstrating academic qualities like analysis and critical evaluation."
+            },
+            {
+                question: "What are common pitfalls to avoid when designing surveys?",
+                answer: "Creating leading or biased questions, using double-barrelled questions, writing vague questions, using negatively worded questions, including acronyms or unfamiliar terms, providing incomplete answer choices, using absolute answers, including mismatched responses, not pretesting, and creating excessively long surveys."
             }
         ];
 

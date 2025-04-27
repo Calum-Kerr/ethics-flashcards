@@ -1,0 +1,571 @@
+
+
+--- Slide 1 ---
+
+Computer & Related Crimes
+Dr. Luigi La Spada
+Lecturer in Electrical and Electronic Engineering
+l.laspada@napier.ac.uk
+
+
+
+
+--- Slide 2 ---
+
+Outline
+Cybercrimes and Laws
+
+Cyber & Networking Laws
+
+ICO Laws 
+
+NIS Regulations
+
+
+--- Slide 3 ---
+
+Cybercrimes and Laws
+
+
+--- Slide 4 ---
+
+Cybercrimes and Legal Frameworks
+UK law addresses cybercrimes through targeted provisions in multiple statutes.
+
+Key offenses include hacking, malware deployment, phishing, identity fraud, and unauthorized testing.
+
+Legal instruments: Computer Misuse Act 1990, Fraud Act 2006, and related regulations.
+
+Laws prioritize both prevention and enforcement through broad definitions and strict penalties.
+
+Reinforces the legal boundaries of digital behavior and cybersecurity ethics.
+
+
+--- Slide 5 ---
+
+Understanding Cybercrime in the UK Legal Context
+Cybercrime refers to offenses involving the use of computers or networks.
+
+Categorized into two broad types: computer-enabled crimes and computer-dependent crimes.
+
+UK legislation addresses both categories through targeted legal instruments.
+
+Common cybercrimes include hacking, malware dissemination, identity theft, and online fraud.
+
+Legal responses are grounded in specific statutes, including the Computer Misuse Act and Fraud Act.
+
+
+--- Slide 6 ---
+
+Hacking and Unauthorized Access
+Defined under Section 1 of the Computer Misuse Act 1990.
+
+Involves intentional unauthorized access to computer systems or data.
+
+Does not require data theft or system damage to constitute an offense.
+
+Considered a summary offense but can escalate based on intent or outcome.
+
+Commonly prosecuted in cases involving system breaches and ethical boundary violations.
+
+
+--- Slide 7 ---
+
+Denial-of-Service (DoS) Attacks
+Covered under Section 3 of the Computer Misuse Act 1990.
+
+Constitutes unauthorized acts intended to impair operation of a computer.
+
+Includes overwhelming servers or networks to disrupt access or services.
+
+Often targets public institutions, financial systems, or critical infrastructure.
+
+Can carry severe penalties, especially if affecting national security or essential services.
+
+
+--- Slide 8 ---
+
+Malware and System Interference
+Prosecuted under Section 3 of the Computer Misuse Act 1990.
+
+Involves deploying software designed to damage, disrupt, or gain unauthorized control.
+
+Includes viruses, worms, Trojans, ransomware, and spyware.
+
+Criminal liability arises even if no actual harm occurs, provided intent is proven.
+
+Often overlaps with offenses under Section 3A regarding distribution tools.
+
+
+--- Slide 9 ---
+
+Phishing and Online Fraud
+Typically prosecuted under the Fraud Act 2006.
+
+Involves deception to acquire sensitive data such as credentials or financial information.
+
+Common methods include fraudulent emails, fake websites, and social engineering.
+
+Section 2 (Fraud by False Representation) is most often invoked.
+
+Offenses may also involve identity theft and unauthorized financial transactions.
+
+
+--- Slide 10 ---
+
+Identity Theft and Identity Fraud
+Governed under the Fraud Act 2006, particularly Sections 2 and 4.
+
+Identity theft involves unlawful acquisition of personal information.
+
+Identity fraud refers to using that information to commit further crimes.
+
+Common crimes include fraudulent credit applications, benefits claims, or online purchases.
+
+Often overlaps with data protection breaches and cyber intrusion offenses.
+
+
+--- Slide 11 ---
+
+Unsolicited Penetration Testing and Legal Boundaries
+Covered under Section 1 of the Computer Misuse Act 1990.
+
+Occurs when individuals conduct system testing without prior authorization.
+
+Even well-intentioned probing is illegal without explicit consent.
+
+Ethical hacking must operate within legal frameworks and contractual agreements.
+
+Breaches can result in criminal charges, regardless of intent or impact.
+
+
+--- Slide 12 ---
+
+Tools for Cybercrime and Legal Controls
+Section 3A of the Computer Misuse Act 1990 criminalizes making, supplying, or obtaining tools for cybercrime.
+
+Includes malware, hacking scripts, password crackers, and denial-of-service tools.
+
+Offense applies even if tools are not actively used to commit a crime.
+
+Exemptions may apply if tools are used within authorized testing frameworks.
+
+Designed to deter both amateur and professional cybercriminals from enabling system breaches.
+
+
+
+--- Slide 13 ---
+
+Cyber & Networking Laws in the UK
+
+
+--- Slide 14 ---
+
+Key Cyber and Networking Laws
+Computer Misuse Act 1990: Addresses unauthorized access and digital sabotage.
+
+Communications Act 2003: Regulates offensive use of public communication networks.
+
+RIPA 2000: Legalizes surveillance under specific oversight.
+
+Telecommunications Regulations: Facilitate lawful monitoring by employers and providers.
+
+DRIPA 2014 and successors: Enable lawful data retention amid privacy debates.
+
+Telecommunications (Security) Act 2021: Mandates cybersecurity preparedness.
+
+
+
+--- Slide 15 ---
+
+Introduction to Cyber and Networking Laws in the UK
+Cyber and networking laws address threats to digital infrastructure and data integrity.
+
+These laws target unauthorized access, misuse, and surveillance of information systems.
+
+UK legislation has evolved in response to technological advancements and new threat landscapes.
+
+Primary aim: safeguard public interest, critical services, and individual rights.
+
+Enforced through a combination of criminal statutes and regulatory frameworks.
+
+
+
+--- Slide 16 ---
+
+The Computer Misuse Act 1990
+Enacted to criminalize unauthorized access and interference with computer systems.
+
+• Established three primary offenses: unauthorized access, access with intent, and unauthorized modification.
+
+• Section 1: Unauthorized access to computer material.
+
+• Section 2: Access with intent to commit or facilitate further offenses.
+
+• Section 3: Unauthorized acts with intent to impair operation of computers.
+
+
+
+--- Slide 17 ---
+
+Amendments and Updates to the Computer Misuse Act
+The original Act predates the internet boom and required modernization.
+
+Amended by the Police and Justice Act 2006 to introduce Section 3A.
+
+Section 3A: Criminalizes creation and distribution of hacking tools.
+
+Further strengthened by Serious Crime Acts of 2007 and 2015.
+
+Ongoing 2024 review aims to align the Act with contemporary cyber threats.
+
+
+
+--- Slide 18 ---
+
+Communications Act 2003 – Key Provisions
+Section 125: Addresses dishonest use of electronic communications services.
+
+Section 127: Criminalizes offensive, indecent, obscene, or menacing messages.
+
+Targets abuse via public communication networks, including social media.
+
+Supports law enforcement in tackling online harassment and cyberbullying.
+
+Applies to individuals and organizations misusing digital platforms.
+
+
+
+--- Slide 19 ---
+
+Regulation of Investigatory Powers Act 2000 (RIPA)
+Enacted to regulate surveillance and interception of communications.
+
+Allows public bodies to access communications data under specific conditions.
+
+Covers covert surveillance, informants (CHIS), and encrypted data.
+
+Aims to balance national security needs with individual privacy rights.
+
+•Subject to oversight by Investigatory Powers Commissioner and the ICO.
+
+
+
+--- Slide 20 ---
+
+Telecommunications (Lawful Business Practice) Regulations 2000
+Supplement RIPA by allowing limited interception of communications by businesses.
+
+Enable employers to monitor calls, emails, and internet use for specific purposes.
+
+
+Permissible purposes include preventing crime, ensuring compliance with regulatory practices, and enforcing company policies.
+
+Employees must be informed that monitoring may occur.
+
+Designed to balance business interests with employee privacy rights.
+
+
+
+--- Slide 21 ---
+
+Data Retention and Investigatory Powers Legislation
+Data Retention (EC Directive) Regulations 2009 mandated temporary retention of communications data by providers.
+
+Repealed and replaced by the Data Retention and Investigatory Powers Act (DRIPA) 2014.
+
+DRIPA introduced emergency powers for data retention following legal challenges to EU directives.
+
+Enabled the government to compel telecoms to store metadata for up to 12 months.
+
+Controversial for its potential conflict with privacy rights; later replaced by Investigatory Powers Act 2016.
+
+
+
+--- Slide 22 ---
+
+Telecommunications (Security) Act 2021
+Introduced to enhance the cyber resilience of UK telecoms infrastructure.
+
+Imposes duties on providers to identify, assess, and mitigate security risks.
+
+Obligates prompt response and preparedness for security compromises.
+
+Covers threats to availability, performance, confidentiality, and data integrity.
+
+Enforced by Ofcom with support from the National Cyber Security Centre (NCSC).
+
+
+
+--- Slide 23 ---
+
+ICO Laws
+
+
+--- Slide 24 ---
+
+Overview of the ICO's Regulatory Scope
+The Information Commissioner's Office (ICO) is the UK's independent authority for upholding information rights.
+
+Enforces multiple laws related to data privacy, security, and transparency.
+
+Its jurisdiction spans both public and private sectors.
+
+Key role: Ensure compliance and penalize violations of data-related laws.
+
+Operates under the framework of the Data Protection Act 2018 and other associated statutes.
+
+
+--- Slide 25 ---
+
+The ICO-Enforced Laws
+Data Protection Act 2018: UK's core personal data legislation.
+
+GDPR: EU regulation shaping UK data practices post-Brexit.
+
+PECR 2003: Regulates digital marketing and communication privacy.
+
+FOIA 2000: Ensures public access to government-held information.
+
+EIR 2004: Provides access to environmental information.
+
+IPA 2016: Governs lawful surveillance and investigatory powers.
+
+NIS 2018: Enhances cybersecurity across essential and digital services.
+
+
+--- Slide 26 ---
+
+Data Protection Act 2018 (DPA 2018)
+Serves as the UK's main data protection legislation, succeeding the 1998 Act.
+
+Implements and tailors the General Data Protection Regulation (GDPR) to the UK context.
+
+Sets out principles for lawful data processing and rights of data subjects.
+
+Provides conditions for lawful processing of personal and sensitive data.
+
+Grants the ICO authority to issue fines and enforcement notices for non-compliance.
+
+
+--- Slide 27 ---
+
+General Data Protection Regulation (GDPR)
+EU-wide regulation with extraterritorial reach, integrated into UK law via the DPA 2018.
+
+Establishes seven key principles for data processing, including accountability and integrity.
+
+Enhances data subject rights and imposes stricter obligations on data controllers and processors.
+
+Requires transparency, consent, and lawful bases for data processing.
+
+ICO enforces GDPR provisions in the UK, including breach notification and Data Protection Impact Assessments (DPIAs).
+
+
+--- Slide 28 ---
+
+Privacy and Electronic Communications Regulations (PECR) 2003
+Supplements GDPR by specifically addressing electronic communications.
+
+Regulates marketing emails, texts, cookies, and use of traffic and location data.
+
+Requires user consent for most types of direct marketing and website tracking.
+
+ICO enforces compliance, with the authority to issue monetary penalties.
+
+Amended by the 2011 regulations to strengthen consent requirements.
+
+
+--- Slide 29 ---
+
+Freedom of Information Act 2000 (FOIA)
+Grants public access to information held by public authorities in the UK.
+
+Applies to central and local government, NHS, schools, police, and more.
+
+Establishes a general right to request recorded information.
+
+Public bodies must respond within 20 working days.
+
+ICO ensures compliance and can order disclosure of information.
+
+
+--- Slide 30 ---
+
+Environmental Information Regulations 2004 (EIR)
+Provides public access to environmental information held by public authorities.
+
+Covers air, water, land, biodiversity, emissions, and related policies.
+
+Broader definition of information than FOIA.
+
+Requests must be responded to within 20 working days.
+
+ICO oversees compliance and handles appeals.
+
+
+
+--- Slide 31 ---
+
+Investigatory Powers Act 2016 (IPA)
+Also known as the "Snoopers' Charter"; consolidates and updates surveillance laws in the UK.
+
+Authorizes interception and retention of communications data under strict conditions.
+
+Enables bulk data collection, equipment interference, and data retention by service providers.
+
+Requires warrants approved by a Secretary of State and a judicial commissioner.
+
+ICO plays a role in oversight, particularly concerning privacy safeguards.
+
+
+--- Slide 32 ---
+
+Network and Information Systems Regulations 2018 (NIS)
+Derived from EU Directive 2016/1148, aimed at improving cybersecurity resilience.
+
+Applies to Operators of Essential Services (OES) and Relevant Digital Service Providers (RDSPs).
+
+OES include sectors such as energy, healthcare, transport, and digital infrastructure.
+
+RDSPs include online marketplaces, search engines, and cloud computing services.
+
+ICO is the competent authority for enforcing NIS obligations on RDSPs.
+
+
+--- Slide 33 ---
+
+Enforcement and Penalties under NIS Regulations
+RDSPs must implement appropriate technical and organizational security measures.
+
+Obliged to report significant incidents to the ICO without undue delay.
+
+ICO assesses compliance through audits and investigations.
+
+Non-compliance may result in monetary penalties up to £17 million.
+
+Enforcement emphasizes proportionality and sector-specific risk.
+
+
+--- Slide 34 ---
+
+NIS Regulations
+
+
+--- Slide 35 ---
+
+ Introduction to the NIS Regulations 2018
+Originated from the EU NIS Directive (2016/1148), adapted for UK law.
+
+Aim: Improve security of network and information systems for essential services and digital providers.
+
+Came into force in the UK on 10 May 2018.
+
+Addresses risks to system availability, continuity, and data integrity.
+
+Applies to both public and private sector operators.
+
+
+--- Slide 36 ---
+
+Operators of Essential Services (OES)
+OES are organizations critical to national infrastructure and public welfare.
+
+Sectors include energy, transport, health, water, and digital infrastructure.
+
+Designated by relevant UK competent authorities based on service impact.
+
+Must implement risk management and incident reporting protocols.
+
+Required to ensure service continuity in the face of cyber threats.
+
+
+--- Slide 37 ---
+
+Relevant Digital Service Providers (RDSPs)
+RDSPs include online marketplaces, search engines, and cloud computing services.
+
+Must have a head office in the UK or appoint a UK-based representative.
+
+Subject to lighter regulatory obligations compared to OES, but still significant.
+
+Required to implement appropriate technical and organizational measures.
+
+Must notify the ICO of any incidents with substantial impact on service provision.
+
+
+
+--- Slide 38 ---
+
+Incident Reporting and Risk Management Requirements
+OES and RDSPs must establish policies to detect and manage security incidents.
+
+Incidents must be reported "without undue delay" to the relevant competent authority.
+
+Notification must include nature of incident, its impact, and mitigation steps taken.
+
+Risk management should be proportionate to service type and threat level.
+
+Failure to report or manage risks can result in financial penalties or enforcement action.
+
+
+--- Slide 39 ---
+
+Enforcement and Regulatory Oversight under NIS
+Competent authorities vary by sector; ICO oversees RDSPs.
+
+Regulators assess compliance through audits, incident reviews, and risk evaluations.
+
+Powers include issuing enforcement notices and imposing monetary penalties.
+
+Maximum fine: £17 million or 4% of global turnover, whichever is higher.
+
+Emphasis on sector-specific risk and proportional enforcement.
+
+
+--- Slide 40 ---
+
+Role of the Information Commissioner's Office (ICO) in NIS
+ICO is the designated competent authority for Relevant Digital Service Providers.
+
+Oversees compliance through registration, audits, and incident investigation.
+
+Maintains a public register of RDSPs under its jurisdiction.
+
+Issues guidance on best practices and regulatory expectations.
+
+Can impose penalties and mandate corrective measures for non-compliance.
+
+
+--- Slide 41 ---
+
+Key Challenges in Implementing NIS Regulations
+Ambiguity in defining what constitutes a "significant" incident.
+
+Variability in cybersecurity maturity across sectors and providers.
+
+Difficulty in enforcing consistent standards for multinational RDSPs.
+
+Balancing transparency with security in incident reporting.
+
+Resource constraints for regulatory authorities and smaller operators.
+
+
+--- Slide 42 ---
+
+Future Outlook of NIS Regulations
+NIS provides a legal foundation for national cyber resilience.
+
+Targets both essential service operators and digital service providers.
+
+Enforcement is risk-based and sector-specific.
+
+Ongoing updates and reviews aim to address emerging threats and implementation gaps.
+
+Emphasis on adaptive compliance, stakeholder cooperation, and continuous improvement.
+
+
+
+--- Slide 43 ---
+
+Questions?

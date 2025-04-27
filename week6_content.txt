@@ -1,0 +1,304 @@
+
+
+--- Page 1 ---
+
+Computing in Contemporary SocietyCheck in Code:
+
+--- Page 2 ---
+
+Last week•we explored algorithms and algorithmic bias This week•we will look at datafication and data justice
+
+--- Page 3 ---
+
+Datafication and Data JusticeLecture SixKhristin Fabian
+
+--- Page 4 ---
+
+Today ’s lecture is about•Datafication•Data Justice
+
+--- Page 5 ---
+
+An example of datafication §From last week's algorithm literacy scale (max 15 points): 37 respondents§Male scores mean 11.75, Female 11.44, Prefer not to say/other 11.25 (p-value > .05)
+1 male2 female3 prefer not to say
+
+--- Page 6 ---
+
+Datafication example: By age group
+1 Age 21-242 Age 25+§Age 21-24 mean 11.70, Age 25+ mean 11.4, (p > .05)
+
+--- Page 7 ---
+
+Datafication example: By SIMD §The Scottish Index of Multiple Deprivation is a relative measure of deprivation. §If an area is identified as ‘deprived’, this can relate to people having a low income but it can also mean fewer resources or opportunities. SIMD looks at the extent to which an area is deprived across seven domains: income, employment, education, health, access to services, crime and housing.§SIMD (low) mean 11.33, §SIMD (high) mean 10.5, p-value >.05 §note that SIMD high were invalid entries (address given was the university)§based only on 7 valid postcodes
+
+--- Page 8 ---
+
+Datafication §Turning human behaviour and social activities into data points that can be collected and analysed (Cukier and Mayer-Schonberger, 2013)§The process of rendering of social and natural world in machine-readable digital format (in Williamson, 2020)
+
+--- Page 9 ---
+
+How do we data-fy education§Learning analytics§AI to monitor, assess and personalise learning experience§Student engagement monitoring systems§Robot/Chatbot teaching assistants§Online learning systems (moodle, blackboard)§Interactive games (not necessarily AI enabled)§Online discussion boards§Online services that facilitate collaboration (google docs, padlet, etc)§Classroom response systems§Online quizzes§PISA§TIMMS§University Rankings 
+
+--- Page 10 ---
+
+Benefits of datafication in educationPersonalised learningData-driven strategies Improved student outcomesEnlarged the scope of measurement across education systemsEnhanced the uptake and use of data for various forms of audit, inspection, evaluation and decision-making (Williamson, 2020)
+
+--- Page 11 ---
+
+Menti: How do we data-fy society?
+
+
+--- Page 12 ---
+
+Menti: Benefits of datafication of society
+
+
+--- Page 13 ---
+
+20082018
+
+--- Page 14 ---
+
+Risks and Challenges of Datafication
+Privacy concerns
+Algorithmic bias
+Surveillance
+Algorithmic filtering and echo chambers
+Pedagogic reductionism
+
+--- Page 15 ---
+
+Risks and Challenges of Datafication
+Privacy concerns
+Algorithmic bias
+Surveillance
+Algorithmic filtering and echo chambers
+Pedagogic reductionism
+
+--- Page 16 ---
+
+The Anonymity SpectrumAnonymous Grouped DataIdentifiable Grouped DataAnonymous Individualized DataIdentifiable Individualised Data
+Anonymous 
+Identified
+Individual / Human 
+Aggregate / Group
+Berland and Garcia (2024). The left hand of data
+
+--- Page 17 ---
+
+The Anonymity SpectrumAnonymous Grouped DataIdentifiable Grouped DataAnonymous Individualized DataIdentifiable Individualised Data
+Anonymous 
+Identified
+Individual / Human 
+Aggregate / Group
+Berland and Garcia (2024). The left hand of data
+
+--- Page 18 ---
+
+Risks and Challenges of Datafication
+Privacy concerns
+Algorithmic bias
+Surveillance
+Algorithmic filtering and echo chambers
+Pedagogic reductionism
+
+--- Page 19 ---
+
+Algorithmic Bias
+
+
+--- Page 20 ---
+
+Risks and Challenges of Datafication
+Privacy concerns
+Algorithmic bias
+Surveillance
+Algorithmic filtering and echo chambers
+Pedagogic reductionism
+
+--- Page 21 ---
+
+Student attendance systems
+
+--- Page 22 ---
+
+Risks and Challenges of Datafication
+Privacy concerns
+Algorithmic bias
+Surveillance
+Algorithmic filtering and echo chambers
+Pedagogic reductionism
+
+--- Page 23 ---
+
+Filter bubble and Echo chambers
+
+
+--- Page 24 ---
+
+Risks and Challenges of Datafication
+Privacy concerns
+Algorithmic bias
+Surveillance
+Algorithmic filtering and echo chambers
+Pedagogic reductionism/Quantification bias
+
+--- Page 25 ---
+
+
+
+--- Page 26 ---
+
+How do we data-fy educationInstitution wide infrastructuresSmaller Scale Tools for Classroom InteractionData about different universities being used for comparisonsThe Risks and challenges of Datafication
+Privacy concerns
+Algorithmic bias
+Surveillance
+Filter bubbles
+Pedagogic reductionism
+
+--- Page 27 ---
+
+Focusing on the at-risk but forgetting all the others
+
+
+--- Page 28 ---
+
+§Balancing Interactivity and equity§Balancing GenAI and Academic Integrity 
+
+
+--- Page 29 ---
+
+Break 15 mins
+
+--- Page 30 ---
+
+Data Justice§fairness in the way people are made visible, represented and treated as a result of their production of digital data (Linnet 2017)VisibilityEngagement with technologyNon-discrimination
+
+--- Page 31 ---
+
+Data Justice
+
+
+--- Page 32 ---
+
+Pillars of data Justice (GPAI, 2022)powerequityaccessidentityparticipationknowledge
+
+--- Page 33 ---
+
+Power§demonstrates the importance of understanding the levels at which power operates and how power manifests in the collection and use of data in the world. §What are the interests of those who wield power or benefit from existing social hierarchy?§How do these interests differ from other stakeholders who are impacted by or impact data practices and their governance?§How do power imbalances shape the differing distribution of benefits and risks among different groups who possess varying levels of power?§How do power imbalances result in potentially unjust outcomes for marginalised, vulnerable or historically discriminated against groups?
+
+--- Page 34 ---
+
+
+
+--- Page 35 ---
+
+Equity§addresses the need to confront the root causes of data injustices as well as to interrogate choices about the acquisition and use of data, particularly where the goal or purpose is to target and intervene in the lives of historically marginalised or vulnerable populations.
+
+
+--- Page 36 ---
+
+
+
+--- Page 37 ---
+
+Access§illuminates how a lack of access to the benefits of data processing is a starting point for reflection on the impacts and prospects of technological interventions. Distributive justiceCapabilities-centered social justiceRestorative and reparational justiceRepresentational and recognitional justice
+
+--- Page 38 ---
+
+
+
+--- Page 39 ---
+
+Identity§addresses the social character of data and problematises its construction and categorisation, which is shaped by the sociocultural conditions and historical contexts from which it is derived.
+
+
+--- Page 40 ---
+
+Participation§promotes the democratisation of data, scientific research and data innovation practices and the need to involve members of impacted communities, policymakers, practitioners, and developers together to collaboratively articulate shared visions for the direction that data innovation agendas should take
+
+--- Page 41 ---
+
+
+
+--- Page 42 ---
+
+Knowledge§involves recognising that diverse forms of knowledge and understanding can add valuable insights to the aspirations, purposes, and justifications of data use—including on the local or context-specific impacts of data-intensive innovation. 
+
+--- Page 43 ---
+
+Data Justice Pillar in Action
+https://tosdr.org/en§A website that simplifies Terms of Service and Privacy policies to help individuals understand how their data is being used before they click accept. 
+
+
+--- Page 44 ---
+
+Data Justice Pillar in Action
+https://motoon.org§Motoon is a community foundation that provides technical services to progressive causes and local communities by connecting them with people in tech.
+
+
+--- Page 45 ---
+
+Requirements for humans to flourish in a datafied society (Hintz et al, 2019)
+Accessible, stable and trustworthy infrastructure
+Supportive legal and regulatory framework for secure online interactions
+Informed and knowledgeable understanding for all stakeholders of the technologies in place and how they might be used
+
+--- Page 46 ---
+
+Let's design a math game
+
+
+--- Page 47 ---
+
+Level 1
+All students start at level 1 difficulty
+
+--- Page 48 ---
+
+Level 1
+A  ?  B The system randomly chooses a number for A and B between 0 to 10. As well as a random allocation of operation
+
+--- Page 49 ---
+
+Level 2
+7 + 5 = 12If they get it right, they level up
+
+--- Page 50 ---
+
+Level 1
+4 x 5 = 9If they answer incorrectly they go back a level. They can’t be lower than level 1 as we don’t want students to be disheartened. 
+
+--- Page 51 ---
+
+Congratulations you’ve reached Level 7
+At the end of 10 questions
+
+--- Page 52 ---
+
+Level 7Level 4
+
+--- Page 53 ---
+
+Level 7Level 4
+
+
+--- Page 54 ---
+
+Group discussion: How will you make the game more fair for all players? 
+15 minutes
+
+--- Page 55 ---
+
+Your role as designer, developer or producer of data systemsInterrogate and critique power§what, if any, power imbalances exist between me (or my firm or organisation) and the communities impacted by the data innovation agendas I pursue?§Focus on the transformative power of data equity§When undertaking machine learning:§Could our categorisation, annotation, or labelling practices serve to discriminate against§certain groups?§Do we explore whether a model contains any lurking proxies or correlations that are discriminatory or inequitable? What are the processes we have in place to safeguard against these?§Equitably open access to data through responsible data sharing§Are my data practices (and those of my firm or organisation) currently supporting and advancing responsible data sharing?(Excerpts from GPAI 2022)
+
+--- Page 56 ---
+
+Your role as designer, developer or producer of data systemsInterrogate, understand, and critique harmful categorisations§Do our data aggregation, categorisation, and labelling practices ensure that they accurately reflect the ways in which members of impacted communities self-identify? Do such practices (and those of reviewing automated labelling processes, where present) include the perspectives of members of impacted communities—especially of those who are marginalised, vulnerable, or historically discriminated against?§Challenge existing, domination-preserving modes of participation§In what ways could the way we approach community participation and involvement in our data innovation practices and their governance operate to normalise or support existing power imbalances and the harmful data practices that could follow from them?§Embrace the pluralism of knowledges§To what extent do we value non-technical, socially-situated knowledge in our work?(Excerpts from GPAI 2022)
+
+--- Page 57 ---
+
+Reminders§Coursework due in two weeks§Class test is in-person, on Week 13. JKCC @ 10am, 90mins test, §Format: multiple choice, will cover topics 1 - 10
+
+--- Page 58 ---
+
+ReferencesBerland, M., & Garcia, A. (2024).The left hand of data: Designing education data for justice. MIT Press.GPAI (2022) Data Justice in Practice: A Guide for Developers. ArXiv.Pangrazio, L., G. Auld, J. Lynch, C. Sawatzki, G. Duffy, S. Hannigan, and J. O’Mara. 2024. Data Justice in Education: Toward a Research Agenda. Educational Philosophy and Theory ahead-of-print, no. ahead-of-print: 1–12.Taylor, L. 2017. What Is Data Justice? The Case for Connecting Digital Rights and Freedoms Globally. Big Data & Society 4, no. 2: 2053951717736335.

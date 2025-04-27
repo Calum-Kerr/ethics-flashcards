@@ -1,0 +1,542 @@
+
+
+--- Slide 1 ---
+
+Professionalism and the computing profession
+Dr. Luigi La Spada
+Lecturer in Electrical and Electronic Engineering
+l.laspada@napier.ac.uk
+
+
+
+
+--- Slide 2 ---
+
+Outline
+What is a Profession?
+
+Key Features of Professions
+
+Is Computing a Profession?
+
+Problems Defining Core Body of Knowledge
+
+Skills in Computing Profession
+
+Under Representation in Computing
+
+Why Under Representation Matters?
+
+Women in IT: A Closer Look
+
+
+
+
+--- Slide 3 ---
+
+What is a Profession?
+
+
+--- Slide 4 ---
+
+Defining the Term "Profession"
+When we speak of a profession, we are referring to more than just a job or occupation. A profession is typically characterized by a body of specialized knowledge that is acquired through extensive education or formal training. This training is not merely technical but also theoretical, often grounded in academic or scientific foundations.
+
+Professions are also regulated by standards of practice—codified rules and expectations that guide how work is performed. 
+
+Importantly, ethical considerations are not optional; they are embedded within the identity of the professional. Professions exist, in part, to serve the broader needs of society, whether that be through promoting justice, health, safety, or well-being.
+
+This separates professions from occupations that may require skill but lack the formalized ethical frameworks or regulatory bodies. 
+
+
+--- Slide 5 ---
+
+Core Characteristics of Professions
+Monopoly of expertise, where entry into the profession is restricted and monitored by a collective body—such as a licensing board or chartered institution. This ensures that only individuals who meet predefined standards can practice.
+
+Self-regulation: meaning that the profession maintains its own internal oversight. Through ethical codes (integrity and responsibility) and disciplinary systems, the professional community enforces standards, which often carry legal or reputational consequences.
+
+Public trust: Professionals are not merely accountable to their clients or employers but also to society at large. This societal contract is especially evident in fields like law or medicine, where poor practice can have broad consequences.
+
+
+--- Slide 6 ---
+
+Traditional vs. Emerging Professions
+Traditional professions such as law, medicine, and architecture have existed for centuries and are deeply embedded within legal, educational, and cultural structures. These fields benefit from established regulatory frameworks, licensure systems, and long-standing public recognition.
+
+Emerging professions—like those in information technology, data science, or cybersecurity—have arisen in response to rapid technological advancement. These areas often lack the same level of formal regulation or societal consensus regarding professional identity.
+
+As society becomes increasingly dependent on digital infrastructure, these emerging professions take on critical roles. Their legitimacy is frequently shaped not by government alone, but also by industry standards, academic institutions, and professional bodies such as the British Computer Society (BCS) or IEEE.
+
+
+--- Slide 7 ---
+
+Legal and Regulatory Dimensions
+In the UK, certain fields are designated as regulated professions, meaning the law explicitly outlines qualifications or licenses required to practice. This regulation ensures competence, protects the public, and supports consistent standards.
+
+The Professional Qualifications Act is the key legislation defining which professions are regulated and what conditions apply: to work one must be registered with a chartered body that confirms their credentials and adherence to professional standards.
+
+However, many occupations, particularly in the computing sector, are not legally regulated in this manner. Nonetheless, many in these roles adopt voluntary codes of conduct and pursue certifications from bodies like BCS or CISCO to affirm their professionalism.
+
+
+--- Slide 8 ---
+
+Key Features of Professions
+
+
+--- Slide 9 ---
+
+Collective Control Over Entry
+Bott (2014): access to the profession is not open-ended or arbitrary—it is regulated by an organized, often legally recognized, professional body. This body sets minimum standards for education, training, and practical experience that must be met before one is allowed to practice.
+
+This control is typically enacted through certification or licensure processes, which function not just as formalities but as critical filters. They serve to ensure that all who enter the profession possess a consistent and verified level of competence and ethical understanding.
+
+This gatekeeping role also plays an important societal function. When the public engages a professional—whether a solicitor, a physician, or an engineer—they do so with the expectation of competence and ethical responsibility. The professional body, by regulating entry, helps uphold this public trust.
+
+This model stands in contrast to occupations where no such formalized oversight exists, and it helps distinguish professions from general skilled labor or trades.
+
+
+--- Slide 10 ---
+
+Self-Governance and Ethical Regulation
+Adams (2016): rather than relying solely on external oversight, professions are entrusted with the authority to regulate themselves. This includes setting ethical standards through a formal code of conduct and holding members accountable for violations.
+
+This autonomy is not without boundaries. It is granted on the condition that the profession enforces high ethical and professional standards internally. Professional bodies often establish disciplinary committees to investigate complaints, impose sanctions, and—in extreme cases—revoke a member’s license or membership.
+
+The rationale for this internal governance is rooted in trust. Society expects that those within a profession will uphold not only technical competence but also ethical behavior. By enforcing their own standards, professions reinforce their collective credibility and reinforce a culture of ethical practice.
+
+
+--- Slide 11 ---
+
+Legal or Charter-Based Establishment
+Bott (2014): many professions are legally constituted entities, often through a Royal Charter or legislation. This formal recognition is not symbolic—it conveys authority, stability, and societal endorsement.
+
+Being established by charter or statute gives the profession the legal right to set professional standards, maintain registries, and—in some cases—grant protected titles, such as “Chartered Engineer” or “Solicitor.” These titles cannot be used without formal membership or qualification, reinforcing the exclusivity and accountability of professional practice.
+
+Chartered status also serves a broader social function: it affirms the profession’s long-term value and its alignment with the public good. The legal establishment of a profession ensures it operates not for private gain or organizational profit alone, but in accordance with its duty to the public—a core principle of professional life.
+
+
+--- Slide 12 ---
+
+Ethical Foundations: Integrity, Responsibility, Accountability
+Kizza (2017) emphasizes integrity, responsibility, and accountability are not peripheral ideals but central tenets that define professional behaviour.
+
+Integrity involves consistency between one’s principles and actions—being honest, transparent, and ethically grounded in decision-making. Without integrity, trust erodes, and the profession’s legitimacy is compromised.
+
+Responsibility reflects the obligation to act not solely in one’s own interest, nor merely in line with employer directives, but in service to clients, the public, and often, society at large. It also involves a duty of care—especially relevant in professions where errors can lead to harm or injustice.
+
+Accountability means being answerable for professional judgments. This may involve legal liability, but more often, it entails professional scrutiny and peer review. 
+
+
+--- Slide 13 ---
+
+Commitment to Lifelong Learning and Expertise
+Bott (2014) and Kizza (2017) highlight that professions are not static roles; they evolve alongside advances in knowledge, technology, regulation, and societal needs. 
+
+To support this, many professional bodies enforce Continuing Professional Development or CPD: compel members to regularly update their skills, whether through formal courses, workshops, practice-based learning, or ethical training. 
+
+This ensures that professionals remain not only technically competent but also aware of emerging challenges—such as data privacy, automation, or accessibility.
+
+Crucially, this commitment extends beyond technical proficiency. It includes ethical literacy and awareness of broader societal impacts. 
+
+
+--- Slide 14 ---
+
+Is Computing a Profession?
+
+
+--- Slide 15 ---
+
+The Professional Status of Computing – An Ongoing Debate
+Unlike traditional professions such as medicine or law, computing does not currently require formal licensure or membership in a professional body for most roles. As a result, individuals can—and often do—enter the field with varied levels of training, ranging from academic degrees to self-taught expertise or vocational certifications.
+
+This absence of a regulatory mandate challenges the conventional markers of professionalization. For instance, there is no unified, legally recognized code of ethics that governs all computing practitioners, nor is there a single licensing authority akin to the General Medical Council or Bar Standards Board.
+
+Further complicating matters is the highly dynamic nature of computing itself. The field is marked by continual technological evolution, the emergence of new specialisms, and a vast array of roles—ranging from software development to cybersecurity and data science. These variations make it difficult to impose a single professional identity across such a heterogeneous domain.
+
+
+
+--- Slide 16 ---
+
+Comparing Computing with Traditional Professions
+Computing roles remain largely unregulated in most jurisdictions. Titles such as “software engineer” or “IT consultant” are not protected by law, meaning they can be adopted without standardized qualifications or oversight. This lack of regulation poses challenges for ensuring consistent quality and ethical accountability.
+
+In computing, while professional bodies - British Computer Society (BCS) and the Association for Computing Machinery (ACM) - do provide ethical guidelines, adherence is generally voluntary and lacks the force of law.
+
+This disparity also affects public perception. While doctors and lawyers are broadly viewed as professionals entrusted with public welfare, computing professionals have not yet attained equivalent societal recognition or expectations. The field is still in the process of solidifying its professional identity, especially in relation to issues of accountability, ethics, and public responsibility.
+
+
+--- Slide 17 ---
+
+The Role of Ethical Practice in Computing
+Decisions made by computing professionals—such as the design of algorithms, management of user data, or development of autonomous systems—can affect fundamental aspects of modern life, including safety, privacy, fairness, and civic rights.
+
+High-profile incidents involving biased machine learning systems, misuse of surveillance technologies, and major cybersecurity breaches illustrate the profound societal impact of ethical misjudgements in computing. These are not isolated technical failures but systemic lapses that often result from insufficient ethical oversight.
+
+Despite this, formal instruction in ethics within computing education remains inconsistent. While some universities embed ethical reasoning into their curricula, others treat it as peripheral. This inconsistency reflects the lack of standardized expectations for ethical competency in the field.
+
+
+--- Slide 18 ---
+
+Fragmentation and Specialization in Computing
+The domain of computing includes a broad spectrum of roles—from front-end developers and systems architects to data scientists, cybersecurity experts, and IT support personnel. These roles often operate under different expectations, use distinct terminologies, and draw from varied educational backgrounds.
+
+This diversity reflects the field’s rapid evolution and close alignment with changing industry needs. As new technologies emerge, so too do new specializations, often outpacing formal academic or professional frameworks. 
+
+As a result, computing lacks the consolidated body of knowledge typically found in more traditional professions.
+
+
+--- Slide 19 ---
+
+Fragmentation and Specialization in Computing
+Instead of a unified credentialing process, computing professionals frequently pursue niche certifications tailored to specific technologies or platforms—such as Cisco, AWS, or CompTIA certifications. While these are valuable for demonstrating technical proficiency, they do not necessarily promote a shared ethical or professional foundation.
+
+This specialization has a double-edged effect: it allows agility and innovation, but it also dilutes the sense of a coherent professional identity. 
+
+Without standardized entry pathways or universally accepted benchmarks, it becomes difficult to construct a unified model of professional legitimacy in computing.
+
+
+--- Slide 20 ---
+
+Toward Professionalization: Opportunities and Barriers
+There are clear opportunities in moving toward professionalization: it would likely elevate public trust, provide greater accountability, and clarify the societal responsibilities of computing practitioners—particularly as their work increasingly shapes critical infrastructures and public life.
+
+One major barrier is structural: computing has evolved with multiple entry routes, including self-teaching, bootcamps, vocational training, and formal degrees. This flexibility, while beneficial in fostering innovation and accessibility, makes it difficult to impose uniform professional standards or licensing models.
+
+Additionally, the pace of industry innovation frequently surpasses the ability of regulatory or educational bodies to adapt. As a result, codifying standards often lags behind practice, particularly in emerging areas such as artificial intelligence and blockchain technologies.
+
+
+--- Slide 21 ---
+
+Problems Defining Core Body of Knowledge
+
+
+--- Slide 22 ---
+
+The Absence of a Unified Knowledge Framework
+Unlike traditional professions such as medicine or law, which possess well-defined curricula and licensure requirements, computing encompasses a broad and evolving set of disciplines that resist simplification.
+
+This complexity is partly due to the inherently interdisciplinary nature of the field. Computing draws from electrical engineering, mathematics, information systems, and more recently, cognitive science and design. 
+
+As such, different academic institutions and industries emphasize different areas, making it difficult to establish consensus on what constitutes the foundational knowledge all computing professionals should possess.
+
+
+--- Slide 23 ---
+
+The Absence of a Unified Knowledge Framework
+Moreover, the pace of innovation exacerbates this issue. Technologies emerge, evolve, and become obsolete in rapid cycles, often before educational frameworks can adjust. This creates significant variability in curricula across universities and training providers, even when they claim to cover the same subject matter.
+
+Finally, the role of industry certifications further diversifies the knowledge landscape. Organizations such as Cisco or Microsoft define their own standards through proprietary exams, which may or may not align with academic or ethical dimensions of professional practice. 
+
+
+--- Slide 24 ---
+
+Specialization and Fragmentation in Curriculum Design
+Most computing-related degrees follow a "core-plus-specialism" structure, where students study general computing concepts in early stages before diverging into specific tracks such as cybersecurity, artificial intelligence, human-computer interaction, or software engineering.
+
+While this model allows students to tailor their education to industry needs or personal interests, it also contributes to inconsistency across institutions. What one university considers “core” computing knowledge—perhaps algorithms, databases, or systems architecture—might be treated as optional or peripheral elsewhere. 
+
+
+--- Slide 25 ---
+
+Specialization and Fragmentation in Curriculum Design
+Furthermore, employer influence cannot be overlooked. In response to rapidly shifting market demands, universities may prioritize technologies or skills that are immediately employable but not foundational. For example, a curriculum may emphasize learning popular frameworks or programming languages over theoretical underpinnings or ethical reasoning.
+
+This fragmentation is not inherently negative—it reflects the responsiveness and adaptability of computing as a discipline. However, it creates significant obstacles to defining a unified body of knowledge that would be essential for establishing computing as a fully professionalized field with consistent standards and expectations.
+
+
+--- Slide 26 ---
+
+The Role and Limitations of Industry Certifications
+In the absence of a universally agreed academic curriculum, industry certifications have emerged as powerful alternatives for validating computing expertise. Certifications from organizations like Cisco, Amazon Web Services (AWS), and CompTIA are widely recognized by employers and often serve as de facto credentials in fields such as networking, cloud infrastructure, and security.
+
+These certifications have clear strengths: they offer practical, skills-based assessments that align closely with current industry tools and practices. 
+
+However, they also introduce limitations that hinder the development of a comprehensive, standardized body of knowledge. Most certifications are narrowly focused on vendor-specific technologies and do not promote a deep understanding of underlying theoretical concepts. 
+
+
+--- Slide 27 ---
+
+The Role and Limitations of Industry Certifications
+Another key concern is the absence of coordination among certifying bodies. With no central authority or accrediting framework, certifications differ significantly in rigor, scope, and legitimacy. A credential that is highly valued in one context may hold little relevance in another, leading to inconsistencies in professional qualification.
+
+Moreover, certifications typically omit ethical, legal, and societal considerations—aspects that are essential for professions with public-facing consequences. This omission further widens the gap between technical competence and professional responsibility, highlighting the need for a more integrated and holistic approach to defining professional knowledge in computing.
+
+
+--- Slide 28 ---
+
+Tensions Between Academia and Industry Expectations
+Universities traditionally focus on foundational principles—such as computational theory, algorithms, and software engineering methods—emphasizing abstraction, critical thinking, and adaptability across contexts.
+
+In contrast, the technology sector often seeks candidates with practical, immediately applicable skills: proficiency in current programming languages, familiarity with development environments, and experience with specific frameworks or platforms. 
+
+This divergence in emphasis creates a disjunction between what graduates are taught and what employers expect. Students may excel in theoretical modules but feel underprepared for workplace environments that demand proficiency with commercial tools, agile workflows, or emerging technologies. Conversely, an overemphasis on tools may compromise a graduate’s long-term adaptability and understanding of core principles.
+
+
+--- Slide 29 ---
+
+Skills in Computing Profession
+
+
+--- Slide 30 ---
+
+Categorizing Computing Skills: Hard vs. Soft
+Jones, et al. (2018) offer a valuable framework for understanding the multifaceted skill set required in the computing profession. 
+
+Hard skills refer to the measurable, teachable abilities typically associated with computing—such as coding in specific languages, designing databases, configuring networks, or understanding systems architecture. These skills form the foundation of technical competence and are usually the primary focus of academic computing curricula.
+
+Soft skills encompass interpersonal, communicative, and cognitive capabilities, including teamwork, adaptability, oral and written communication, and critical thinking. 
+
+
+--- Slide 31 ---
+
+Core Hard Skills in Entry-Level IS Roles
+Jones, et al. (2018) identify a range of hard skills that are consistently sought after in entry-level Information Systems roles. 
+
+Programming remains a core skill, with proficiency in widely used languages such as Python, Java, or JavaScript providing the basis for software development and system logic. The ability to write efficient, maintainable code is foundational, but so too is the capacity to adapt to new languages and paradigms as technologies evolve.
+
+Equally vital is database expertise. Understanding how to design and manage databases—through SQL and relational models, or increasingly, NoSQL systems—is essential for tasks involving data storage, retrieval, and analysis. 
+
+
+--- Slide 32 ---
+
+Core Hard Skills in Entry-Level IS Roles
+Jones, et al. (2018) identify a range of hard skills that are consistently sought after in entry-level Information Systems roles. 
+
+Networking and system administration also feature prominently. Professionals are often required to manage or troubleshoot networked systems, configure hardware and protocols, and ensure cybersecurity compliance. This aligns with increasing demand for roles in infrastructure, cloud computing, and cybersecurity.
+
+Moreover, knowledge of development methodologies—such as Agile, Scrum, or DevOps—signals a readiness to participate in collaborative, iterative workflows. These frameworks not only organize technical tasks but also structure communication, version control, and project management—bridging the divide between technical execution and organizational coordination.
+
+
+--- Slide 33 ---
+
+The Strategic Role of Soft Skills
+While technical acumen is critical, Jones, et al. (2018) emphasize that soft skills are equally vital—particularly for professionals entering collaborative and interdisciplinary environments. 
+
+Communication is frequently cited as the most indispensable soft skill. Computing professionals must be able to convey complex technical information clearly and concisely, both to other specialists and to non-technical stakeholders. Whether in documentation, meetings, or presentations, effective communication reduces misunderstandings and fosters trust.
+
+Teamwork is another key area. Rarely do computing professionals work in isolation; they engage with cross-functional teams, often including product managers, designers, or clients from different cultural or disciplinary backgrounds. The ability to navigate diverse perspectives and work towards shared goals is essential.
+
+
+--- Slide 34 ---
+
+The Strategic Role of Soft Skills
+While technical acumen is critical, Jones, et al. (2018) emphasize that soft skills are equally vital—particularly for professionals entering collaborative and interdisciplinary environments. 
+
+Problem-solving and critical thinking are closely intertwined. These skills involve not only identifying the root cause of technical problems but also weighing alternatives, anticipating implications, and choosing optimal solutions under uncertainty. This is especially relevant in fields like cybersecurity, systems design, or AI development, where solutions are rarely linear.
+
+Finally, adaptability is crucial in a fast-moving field. Professionals must remain open to new tools, methodologies, and domains, adjusting their mindset and skill set as technologies evolve and business priorities shift.
+
+
+--- Slide 35 ---
+
+Toward a Balanced Skillset in Computing
+As the computing profession continues to evolve, there is a growing consensus—echoed by Jones, et al. (2018) —that a balanced skillset is essential. Employers are not only looking for candidates with strong technical credentials but also those who can communicate effectively, lead teams, and make contextually informed decisions.
+
+This is especially evident in the rise of hybrid roles, such as technical product managers, data analysts, and user experience specialists. These roles require fluency in both technological domains and business or human-centered contexts, challenging the traditional notion of the computing professional as a purely technical actor.
+
+Professional and accrediting bodies are responding by revising curricular guidelines to reflect these new expectations
+
+
+--- Slide 36 ---
+
+Under Representation in Computing
+
+
+--- Slide 37 ---
+
+Defining Under-Representation in the Computing Field
+Under-representation in computing is a multifaceted issue that refers to the persistent and significant under-involvement of certain demographic groups in the field—most notably women, ethnic minorities, and people with disabilities. These disparities are not only statistical but structural, reflecting deeply embedded inequalities that cut across the educational pipeline and professional landscape.
+
+In the context of computing, under-representation manifests at multiple levels. It is visible in secondary education, where fewer students from marginalized groups enroll in computing-related subjects; in tertiary education, where dropout rates are disproportionately high; and in employment, where diversity diminishes further as one ascends toward senior technical or leadership roles.
+
+
+--- Slide 38 ---
+
+Defining Under-Representation in the Computing Field
+This issue persists even though the computing sector is rapidly expanding and suffers from significant talent shortages. The mismatch between opportunity and participation highlights not a lack of capability, but the presence of systemic exclusionary factors—including access to resources, implicit biases, and cultural norms.
+
+Importantly, these challenges are not isolated to computing alone but reflect a wider trend within STEM disciplines. However, computing is uniquely positioned due to its pivotal role in shaping digital society. Addressing under-representation, therefore, is not merely a matter of workforce inclusion—it is essential for ensuring technological development reflects the needs and values of a pluralistic society.
+
+
+--- Slide 39 ---
+
+Educational Barriers Across the Pipeline
+The disparities often begin in primary and secondary education, where access to quality computing instruction is not uniformly distributed. Students from economically disadvantaged areas may lack well-resourced schools, experienced ICT teachers, or even basic infrastructure, which severely limits their exposure to foundational digital skills.
+
+Gender stereotypes are especially influential at this stage. Computing is frequently portrayed as a masculine domain, and girls are often discouraged—implicitly or explicitly—from pursuing it. These cultural narratives, combined with a lack of female role models in the field, contribute to early disengagement and self-deselection from computing pathways.
+
+
+--- Slide 40 ---
+
+Educational Barriers Across the Pipeline
+At the post-secondary level, the problem intensifies. Even among those who initially express interest in computing, retention rates for women and underrepresented minorities are lower than average. This phenomenon—often referred to as the "leaky pipeline"—reflects both the absence of inclusive educational environments and the failure to address the unique needs of diverse learners.
+
+Further complicating this is the scarcity of inclusive curricula. Computing content often lacks cultural relevance, historical diversity, or real-world applications that resonate with marginalized students. Without pedagogical reform, the educational system continues to reproduce exclusion rather than disrupt it.
+
+
+--- Slide 41 ---
+
+Workforce Disparities and Retention Challenges
+While some progress has been made in diversifying entry-level recruitment, systemic challenges remain in terms of retention, career progression, and workplace culture.
+
+Individuals from underrepresented groups—especially women, ethnic minorities, and people with disabilities—are less likely to be hired into core technical roles, and even less likely to be promoted into senior or leadership positions. 
+
+A significant factor in attrition is the workplace environment. Numerous studies highlight that hostile, exclusionary, or simply indifferent workplace cultures contribute to the departure of diverse professionals. These may include subtle biases, microaggressions, lack of mentorship, or systemic inequities in how performance is evaluated and rewarded.
+
+
+--- Slide 42 ---
+
+Workforce Disparities and Retention Challenges
+Moreover, pay inequities and the absence of clear advancement pathways further marginalize underrepresented individuals. The experience of plateauing—being hired but not promoted—often leads to disengagement or exit from the profession entirely.
+
+The consequences of these disparities are not merely individual—they affect the collective functioning and ethical standing of the computing industry. 
+
+A lack of diversity in design teams or leadership groups can result in products and systems that fail to address, or even harm, the needs of underrepresented communities. In fields such as AI or digital health, these omissions carry serious social consequences.
+
+
+--- Slide 43 ---
+
+Strategic Approaches to Inclusion and Equity
+To address the persistent under-representation in computing, strategic, multi-level interventions are required—ones that extend across education, employment, and policy domains. 
+
+Outreach initiatives that introduce computing to students—especially those from underrepresented backgrounds—can shape perceptions and open pathways at an early stage. 
+
+Inclusive, representative curricula and the visibility of diverse role models help counter stereotypes and broaden aspirations.
+
+While mentorship provides guidance and emotional support, sponsorship actively advocates for an individual’s advancement within an organization. 
+
+
+--- Slide 44 ---
+
+Strategic Approaches to Inclusion and Equity
+At the organizational level, institutional accountability is essential. This includes conducting equity audits, reforming recruitment and promotion practices, and publishing transparent diversity metrics
+
+Collaborations between academia and industry also play a pivotal role. Joint initiatives can align curricula with market needs, offer internships to marginalized students, and co-develop inclusive pedagogies and hiring practices. 
+
+Ultimately, inclusion must be embedded into organizational culture—not treated as an optional add-on or compliance task. It requires leadership commitment, resource allocation, and ongoing reflection. 
+
+
+--- Slide 45 ---
+
+Why Under Representation Matters?
+
+
+--- Slide 46 ---
+
+Equity and Social Justice in the Computing Profession
+When marginalized groups are systematically excluded or under-included, the consequences go beyond individual missed opportunities. These patterns of exclusion mirror and reinforce broader societal inequalities, such as those based on race, gender, disability, and class.  
+
+Moreover, those who are underrepresented are deprived not only of economic advancement but also of influence over the design and governance of the digital world. This raises serious ethical concerns, as it means that critical technologies are being developed and deployed without input from those most affected by them.
+
+
+--- Slide 47 ---
+
+Impacts on Technological Design and Outcomes
+One of the most compelling arguments for addressing under-representation in computing is its direct impact on technological design and societal outcomes. When development teams lack diversity, those technologies often reflect a narrow worldview, inadvertently reproducing social biases.
+
+Consider the numerous cases of algorithmic bias in facial recognition systems, predictive policing tools, or hiring platforms. In many instances, these tools were designed by homogenous teams who failed to account for how their models might misclassify, exclude, or disadvantage certain populations—particularly women and people of color.
+
+Without diverse perspectives, developers may overlook crucial usability issues, privacy concerns, or cultural nuances that affect how technology is perceived and used. 
+
+
+--- Slide 48 ---
+
+Economic and Innovation Losses
+By failing to fully include individuals from underrepresented backgrounds, the industry limits not only its social impact but its economic potential. This under-utilization of talent contributes to an inefficient workforce model—one in which highly capable individuals are excluded, often due to systemic bias rather than lack of merit or interest.
+
+Moreover, the tech sector frequently laments a shortage of qualified talent. Yet, this talent gap coexists with a persistently underrepresented pool of individuals—suggesting that the problem is not simply one of supply, but of systemic exclusion and underinvestment in marginalized communities.
+
+
+--- Slide 49 ---
+
+Ethical Accountability and Democratic Legitimacy
+Algorithmic tools used in law enforcement or social welfare can encode and perpetuate systemic biases if the perspectives of marginalized communities are not represented during design, testing, and implementation. Without inclusive participation, there is a risk that the technologies governing public life will lack both moral insight and legitimacy.
+
+Furthermore, excluding diverse voices from digital policymaking challenges the principles of democratic representation. Technological governance should include those whose lives are most affected by technological decisions, particularly in areas involving data privacy, surveillance, and automated decision-making.
+
+
+--- Slide 50 ---
+
+Women in IT: A Closer Look
+
+
+--- Slide 51 ---
+
+Gender Disparities in Participation and Progression
+Despite the expanding importance of digital skills and the growing demand for computing professionals, women continue to be significantly underrepresented in the field, both in educational pathways and in the professional workforce.
+
+In the UK, for example, data from 2021 indicate that only around 21% of computing undergraduates identified as female. Women are less likely to progress into senior technical, managerial, or leadership roles, and are more likely to exit the profession mid-career.
+
+
+--- Slide 52 ---
+
+Gender Disparities in Participation and Progression
+Crucially, this gender disparity is not a matter of individual choice alone—it is shaped by structural, cultural, and institutional forces that influence how computing is perceived, accessed, and experienced by women. These include gendered socialization, lack of early exposure, stereotype threat, biased recruitment practices, and non-inclusive workplace cultures.
+
+Furthermore, the underrepresentation of women in IT reflects a broader trend in STEM fields, but computing has shown particularly slow progress despite decades of intervention. 
+
+
+--- Slide 53 ---
+
+Early Influences and Educational Pathways
+Research consistently shows that girls are socialized away from technology-related interests much earlier than university or career decision points.
+
+In many schools, computing is still framed in a narrow, technical, and masculine way, often failing to connect with broader social or creative interests that might appeal to a more diverse range of learners. 
+
+Moreover, the shortage of female computing educators and the absence of visible role models contribute to the reinforcement of stereotypes that portray IT as a male-dominated space.
+
+
+--- Slide 54 ---
+
+Early Influences and Educational Pathways
+Even when girls demonstrate equal or superior academic capabilities, they often report lower self-confidence in their technical abilities. This phenomenon is known as the confidence gap, and it plays a crucial role in discouraging girls from selecting computing subjects in secondary school, which then influences their post-secondary pathways.
+
+These dynamics lead to early disengagement, effectively narrowing the pipeline before students even reach the age where they make formal career decisions. Addressing this issue requires rethinking how computing is introduced and taught—making it more inclusive, interdisciplinary, and reflective of diverse career possibilities.
+
+
+--- Slide 55 ---
+
+Workplace Culture and Retention Challenges
+Even when women successfully enter the IT workforce, retaining them poses a significant challenge. Many find themselves navigating environments that are not only male-dominated but also structured in ways that subtly or overtly exclude or undervalue their contributions.
+
+One pervasive issue is workplace culture. Women in IT frequently report experiences of microaggressions, exclusion from informal networks, and a lack of support systems such as mentoring or sponsorship. These factors contribute to a sense of isolation and disempowerment, especially in teams where they may be the only—or one of very few—female professionals.
+
+
+--- Slide 56 ---
+
+Workplace Culture and Retention Challenges
+Bias in performance evaluations and promotion criteria further limits women's career progression. Studies have shown that women's technical contributions are more likely to be overlooked or attributed to male colleagues, and that they receive less credit for team-based achievements.
+
+These cumulative barriers lead to high rates of mid-career attrition among women in IT. 
+
+Notably, many do not leave the workforce entirely—they often transition to adjacent fields or roles that offer more inclusive cultures, signaling that the issue lies not with individual capabilities, but with systemic failures in the tech sector to support and retain diverse talent.
+
+
+--- Slide 57 ---
+
+The Impact of Social Identity Threat
+The fear or concern of being judged, devalued, or stereotyped based on one's group identity. In the context of computing, where cultural norms have long aligned the discipline with masculinity, this threat is particularly salient for women.
+
+Social identity threat can begin early in life, even during childhood, as girls encounter subtle messages that suggest computing is “not for them.” These messages may come from peers, teachers, media portrayals, or the design of computing activities themselves. 
+
+Crucially, the dynamics that trigger social identity threat are often unintentional. A classroom dominated by male students, gender-biased examples in course content, or dismissive responses to female contributions can all subtly communicate that women are outsiders in computing.
+
+
+--- Slide 58 ---
+
+Strategies for Inclusion and Structural Change
+Addressing social identity threat involves creating environments that explicitly affirm inclusion and value diversity, not only through policy but through everyday practices—such as equitable participation, representative teaching materials, and proactive encouragement.
+
+A first step is reimagining curricula and pedagogy to make them more inclusive.
+
+Equally important is increasing the visibility of women in computing—particularly in leadership, research, and innovation.
+
+On an organizational level, inclusive HR policies—from recruitment to performance reviews—are essential.
+
+Finally, institutional accountability is crucial. Regular equity audits, leadership training, and measurable inclusion goals signal a long-term commitment to change.
+
+
+--- Slide 59 ---
+
+Questions?

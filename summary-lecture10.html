@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lecture 10: Research Methods in Computing - Summary</title>
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background-color: #f5f5f5;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background-color: white;
+            border-radius: 10px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+            padding: 30px;
+        }
+        
+        header {
+            text-align: center;
+            margin-bottom: 30px;
+            padding-bottom: 20px;
+            border-bottom: 1px solid #eee;
+        }
+        
+        h1 {
+            font-size: 28px;
+            color: #2c3e50;
+            margin-bottom: 10px;
+        }
+        
+        .subtitle {
+            font-size: 18px;
+            color: #7f8c8d;
+        }
+        
+        h2 {
+            font-size: 22px;
+            color: #2c3e50;
+            margin-top: 25px;
+            margin-bottom: 15px;
+            padding-bottom: 8px;
+            border-bottom: 1px solid #eee;
+        }
+        
+        h3 {
+            font-size: 18px;
+            color: #34495e;
+            margin-top: 20px;
+            margin-bottom: 10px;
+        }
+        
+        p {
+            margin-bottom: 15px;
+        }
+        
+        ul, ol {
+            margin-bottom: 15px;
+            padding-left: 25px;
+        }
+        
+        li {
+            margin-bottom: 8px;
+        }
+        
+        .summary-content {
+            margin-bottom: 30px;
+        }
+        
+        .nav-buttons {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 30px;
+        }
+        
+        .nav-button {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #3498db;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            transition: background-color 0.3s;
+        }
+        
+        .nav-button:hover {
+            background-color: #2980b9;
+        }
+        
+        footer {
+            text-align: center;
+            margin-top: 30px;
+            color: #7f8c8d;
+            font-size: 14px;
+        }
+        
+        @media (max-width: 600px) {
+            .container {
+                padding: 20px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Lecture 10: Research Methods in Computing</h1>
+            <p class="subtitle">One-Page Summary</p>
+        </header>
+        
+        <section class="summary-content">
+            <h2>Defining Research</h2>
+            <p>Research can be defined as "the systematic investigation into and study of materials and sources in order to establish facts and reach new conclusions" (Oxford Dictionary). It is a systematic process of investigation that contributes to the body of knowledge that shapes and guides academic practice and/or practice disciplines (Tarling & Crofts, 1998).</p>
+            
+            <h2>Classifying Research</h2>
+            
+            <h3>By Field</h3>
+            <p>Research can be classified by its position within a hierarchy of topics. For example, in the ACM classification system, Speech Recognition falls under Natural Language Processing, which falls under Artificial Intelligence.</p>
+            
+            <h3>By Purpose</h3>
+            <ul>
+                <li><strong>Theoretical/Fundamental research:</strong> Aims to increase understanding</li>
+                <li><strong>Applied research:</strong> Aims to bring about change or solve concrete real-world problems</li>
+            </ul>
+            
+            <h3>By Nature</h3>
+            <ul>
+                <li><strong>Theoretical:</strong> Formal theory, simulation</li>
+                <li><strong>Observational:</strong> Exploratory studies, descriptive studies, machine learning</li>
+                <li><strong>Experimental:</strong> Controlled experiments</li>
+                <li><strong>Applied:</strong> Applied experimentation, applied observational study</li>
+            </ul>
+            
+            <h3>By Research Approach</h3>
+            <ul>
+                <li><strong>Quantitative:</strong> Focuses on numerical data and statistical analysis</li>
+                <li><strong>Qualitative:</strong> Focuses on non-numerical data like interviews and observations</li>
+                <li><strong>Mixed:</strong> Combines both quantitative and qualitative approaches</li>
+            </ul>
+            
+            <h2>Types of Research in Computing</h2>
+            
+            <h3>Theoretical/Fundamental Research</h3>
+            <p>Theoretical research is a logical exploration of a system of beliefs and assumptions. In computing, this includes theoretical computer science, which explores the fundamental aspects of computation, including logic, semantics, algorithms, complexity, and automata.</p>
+            
+            <h3>Observational Research</h3>
+            <p>This type of research is best for answering open-ended or broad research questions. It includes:</p>
+            <ul>
+                <li><strong>Exploratory Studies:</strong> Collecting, analyzing, and interpreting observations about known designs, systems, or models</li>
+                <li><strong>Descriptive Studies:</strong> Focusing in depth on a specific case of some system</li>
+                <li><strong>Machine Learning:</strong> Using computational algorithms to turn empirical data into usable models</li>
+            </ul>
+            
+            <h3>Experimental Research</h3>
+            <p>In experimental research, a scientist takes concepts and beliefs gained from observation and theorizing and creates targeted, controlled experiments to generate evidence in support of, or in contradiction to, their premise.</p>
+            
+            <h3>Applied Research</h3>
+            <p>Applied research quantifies how well we apply knowledge learned from basic science to solving problems. It includes:</p>
+            <ul>
+                <li><strong>Applied Experimentation:</strong> Benchmarking (evaluating effectiveness) and validation testing (evaluating solutions in controlled environments)</li>
+                <li><strong>Applied Observational Study:</strong> Applied exploratory and applied descriptive studies</li>
+            </ul>
+            
+            <h2>Common Research Strategies in Computing</h2>
+            
+            <h3>Surveys</h3>
+            <p>Surveys aim to obtain the same kinds of data from a large group of people in a standardized and systematic way. Sampling techniques include random sampling, purposive sampling, and snowball sampling.</p>
+            
+            <h3>Design and Creation</h3>
+            <p>This strategy focuses on developing new technology products or artifacts (constructs, models, methods, or instantiations). For such projects to be considered research, they should demonstrate not just technical skills but also academic qualities such as analysis, explanation, argument, justification, and critical evaluation.</p>
+            
+            <h3>Experiments</h3>
+            <p>Experiments investigate cause and effect relationships, seeking to prove or disprove a causal link between a factor and an observed outcome. Common experimental designs include:</p>
+            <ul>
+                <li>One group pre-test, post-test</li>
+                <li>Static group comparisons</li>
+                <li>Pre-test/post-test control group</li>
+            </ul>
+            
+            <h3>Case Studies</h3>
+            <p>A case study focuses on one instance of the 'thing' that is to be investigated, studying it in depth using a variety of data generation methods. The aim is to obtain a rich, detailed insight into the 'life' of that case and its complex relationships and processes.</p>
+            
+            <h2>Data Collection Methods</h2>
+            <ul>
+                <li><strong>Interviews:</strong> Structured, semi-structured, or unstructured conversations</li>
+                <li><strong>Observations:</strong> Watching and recording behavior or events</li>
+                <li><strong>Questionnaires:</strong> Standardized sets of questions</li>
+                <li><strong>Documents:</strong> Analysis of existing texts or records</li>
+            </ul>
+            
+            <h2>Designing Effective Surveys</h2>
+            <p>Common pitfalls to avoid when designing surveys include:</p>
+            <ol>
+                <li>Creating leading or biased questions</li>
+                <li>Using double-barrelled questions (asking two questions in one)</li>
+                <li>Writing vague questions</li>
+                <li>Using negatively worded questions</li>
+                <li>Including acronyms or unfamiliar terms</li>
+                <li>Providing incomplete range or overlapping answer choices</li>
+                <li>Using absolute answers (always, never)</li>
+                <li>Including responses that do not match questions</li>
+                <li>Not pretesting or piloting the survey</li>
+                <li>Creating excessively long surveys</li>
+            </ol>
+        </section>
+        
+        <div class="nav-buttons">
+            <a href="summaries.html" class="nav-button">Back to Summaries</a>
+            <a href="ethics-flashcards.html" class="nav-button">Practice Flashcards</a>
+        </div>
+        
+        <footer>
+            <p>Created for exam preparation - April 2024</p>
+        </footer>
+    </div>
+</body>
+</html>
