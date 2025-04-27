@@ -575,8 +575,11 @@
             }
         });
 
-        // Initialize
-        updateCard();
+        // Initialize with a small delay to ensure DOM is fully loaded
+        setTimeout(function() {
+            updateCard();
+            console.log("Loaded " + flashcards.length + " flashcards");
+        }, 100);
     </script>
 </body>
 </html>
